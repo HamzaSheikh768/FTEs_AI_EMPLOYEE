@@ -1,0 +1,272 @@
+Starting Email Watcher MCP Server on localhost:8000
+Vault path: AI_Employee_Vault
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\email_watcher_server.py", line 271, in <module>
+    main()
+    ~~~~^^
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\email_watcher_server.py", line 267, in main
+    server.serve(host=args.host, port=args.port)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\email_watcher_server.py", line 249, in serve
+    return self.fastmcp.serve(host=host, port=port)
+           ^^^^^^^^^^^^^^^^^^
+AttributeError: 'FastMCP' object has no attribute 'serve'
+[02/27/26 02:37:45] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+Traceback (most recent call last):
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\streams\memory.py", line 117, in receive
+    return self.receive_nowait()
+           ~~~~~~~~~~~~~~~~~~~^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\streams\memory.py", line 112, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2325, in wrapper
+    return await func(*args)
+           ^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\mixins\transport.py", line 61, in run_async
+    await self.run_stdio_async(
+    ...<2 lines>...
+    )
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\mixins\transport.py", line 187, in run_stdio_async
+    await self._mcp_server.run(
+    ...<8 lines>...
+    )
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\low_level.py", line 233, in run
+    async with AsyncExitStack() as stack:
+               ~~~~~~~~~~~~~~^^
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 768, in __aexit__
+    raise exc
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 751, in __aexit__
+    cb_suppress = await cb(*exc_details)
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\mcp\shared\session.py", line 238, in __aexit__
+    return await self._task_group.__aexit__(exc_type, exc_val, exc_tb)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 787, in __aexit__
+    raise exc_val
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\low_level.py", line 245, in run
+    async with anyio.create_task_group() as tg:
+               ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 787, in __aexit__
+    raise exc_val
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\low_level.py", line 249, in run
+    async for message in session.incoming_messages:
+    ...<6 lines>...
+        )
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\abc\_streams.py", line 41, in __anext__
+    return await self.receive()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\streams\memory.py", line 125, in receive
+    await receive_event.wait()
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 1789, in wait
+    await self._event.wait()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\asyncio\locks.py", line 213, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\email_watcher_server.py", line 271, in <module>
+    main()
+    ~~~~^^
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\email_watcher_server.py", line 267, in main
+    server.serve(host=args.host, port=args.port)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\email_watcher_server.py", line 249, in serve
+    return self.fastmcp.run(transport="stdio", show_banner=False)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\mixins\transport.py", line 88, in run
+    anyio.run(
+    ~~~~~~~~~^
+        partial(
+        ^^^^^^^^
+    ...<4 lines>...
+        )
+        ^
+    )
+    ^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_core\_eventloop.py", line 77, in run
+    return async_backend.run(func, args, {}, backend_options)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2342, in run
+    return runner.run(wrapper())
+           ~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+[02/27/26 02:45:11] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+[02/27/26 02:45:31] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+[02/27/26 02:47:31] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+[02/27/26 02:49:32] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+[02/27/26 02:51:32] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+[02/27/26 02:53:33] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+[02/27/26 02:55:33] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+[02/27/26 02:57:34] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+[02/27/26 02:58:15] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+Traceback (most recent call last):
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\streams\memory.py", line 117, in receive
+    return self.receive_nowait()
+           ~~~~~~~~~~~~~~~~~~~^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\streams\memory.py", line 112, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2325, in wrapper
+    return await func(*args)
+           ^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\mixins\transport.py", line 61, in run_async
+    await self.run_stdio_async(
+    ...<2 lines>...
+    )
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\mixins\transport.py", line 187, in run_stdio_async
+    await self._mcp_server.run(
+    ...<8 lines>...
+    )
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\low_level.py", line 233, in run
+    async with AsyncExitStack() as stack:
+               ~~~~~~~~~~~~~~^^
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 768, in __aexit__
+    raise exc
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 751, in __aexit__
+    cb_suppress = await cb(*exc_details)
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\mcp\shared\session.py", line 238, in __aexit__
+    return await self._task_group.__aexit__(exc_type, exc_val, exc_tb)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 787, in __aexit__
+    raise exc_val
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\low_level.py", line 245, in run
+    async with anyio.create_task_group() as tg:
+               ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 787, in __aexit__
+    raise exc_val
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\low_level.py", line 249, in run
+    async for message in session.incoming_messages:
+    ...<6 lines>...
+        )
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\abc\_streams.py", line 41, in __anext__
+    return await self.receive()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\streams\memory.py", line 125, in receive
+    await receive_event.wait()
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 1789, in wait
+    await self._event.wait()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\asyncio\locks.py", line 213, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\email_watcher_server.py", line 271, in <module>
+    main()
+    ~~~~^^
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\email_watcher_server.py", line 267, in main
+    server.serve(host=args.host, port=args.port)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\email_watcher_server.py", line 249, in serve
+    return self.fastmcp.run(transport="stdio", show_banner=False)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\fastmcp\server\mixins\transport.py", line 88, in run
+    anyio.run(
+    ~~~~~~~~~^
+        partial(
+        ^^^^^^^^
+    ...<4 lines>...
+        )
+        ^
+    )
+    ^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_core\_eventloop.py", line 77, in run
+    return async_backend.run(func, args, {}, backend_options)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2342, in run
+    return runner.run(wrapper())
+           ~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+[02/27/26 03:06:26] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+Traceback (most recent call last):
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\streams\memory.py", line 117, in receive
+    return self.receive_nowait()
+           ~~~~~~~~~~~~~~~~~~~^^
+  File "e:\Hackathon 0\Bronze\Personal-AI-Employee\.venv\Lib\site-packages\anyio\streams\memory.py", line 112, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+[03/01/26 04:40:21] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+[03/01/26 23:09:09] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+Starting Email Watcher MCP Server on localhost:8000
+Vault path: AI_Employee_Vault
+[03/02/26 00:44:57] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+Starting Email Watcher MCP Server on localhost:8000
+Vault path: AI_Employee_Vault
+[03/02/26 00:45:35] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+Starting Email Watcher MCP Server on localhost:8000
+Vault path: AI_Employee_Vault
+[03/02/26 00:45:46] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+Starting Email Watcher MCP Server on localhost:8000
+Vault path: AI_Employee_Vault
+[03/02/26 00:53:56] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 
+Starting Email Watcher MCP Server on localhost:8000
+Vault path: AI_Employee_Vault
+[03/02/26 00:55:37] INFO     Starting MCP server 'Email        transport.py:183
+                             Watcher MCP Server' with                          
+                             transport 'stdio'                                 

@@ -1,0 +1,13 @@
+Starting Vault Orchestrator for: AI_Employee_Vault\Inbox
+Monitoring Inbox for new files...
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\orchestrator.py", line 152, in <module>
+    main()
+    ~~~~^^
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\orchestrator.py", line 136, in main
+    print(f"Auto-routing: {inbox_path.name} \u2192 {needs_action_path.name}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 20: character maps to <undefined>

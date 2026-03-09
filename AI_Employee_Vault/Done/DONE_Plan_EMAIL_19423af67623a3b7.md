@@ -1,0 +1,40 @@
+# Plan for EMAIL_19423af67623a3b7
+
+## Original Request:
+---
+type: email
+from: Coursera <Coursera@m.learn.coursera.org>
+to: humzusheikh4009@gmail.com
+subject: Earn your degree online from leading universities
+received: 2026-02-27T00:06:18.741695
+priority: medium
+status: pending
+gmail_id: 19423af67623a3b7
+labels: ['CATEGORY_PROMOTIONS', 'UNREAD', 'INBOX']
+---
+## Email Content
+Get the skills and the credential to advance your career ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+
+## Body Preview
+Get the skills and the credential to advance your career
+͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏
+͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏
+͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ ͏͏‌ ͏‌ ͏‌ ͏‌
+Coursera ( https://link.coursera.org/f/a/KQV3Hbsh6sJgHV9uabm46w~~/AAQRxQA~/RgRpWDLsP0QqaHR0cHM6Ly93d3cuY291cnNlcmEub3Jn...
+
+## Suggested Actions
+- [ ] Read full email
+- [ ] Reply to sender
+- [ ] Forward to relevant party
+- [ ] Archive after processing
+
+
+## Next Steps:
+1. Analyze the request
+2. Create specific tasks
+3. Determine if sensitive approval is needed
+4. Execute or route to appropriate handler
+
+
+## Execution Log
+Executed on 2026-03-09T23:23:33.109393

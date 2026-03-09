@@ -1,0 +1,757 @@
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Starting Inbox watcher for: AI_Employee_Vault\Inbox
+Monitoring for new files in the Inbox...
+When files are added to Inbox, they will trigger processing tasks in Needs_Action
+Press Ctrl+C to stop...
+Detected: EMAIL_193f96793dea4300.md - Created processing task: PROCESS_EMAIL_193f96793dea4300.md.md
+Detected: EMAIL_193f93092f634d91.md - Created processing task: PROCESS_EMAIL_193f93092f634d91.md.md
+Detected: EMAIL_193f916c872751b4.md - Created processing task: PROCESS_EMAIL_193f916c872751b4.md.md
+Detected: EMAIL_193f903992f9b645.md - Created processing task: PROCESS_EMAIL_193f903992f9b645.md.md
+Detected: EMAIL_193f8b64b730da62.md - Created processing task: PROCESS_EMAIL_193f8b64b730da62.md.md
+Detected: EMAIL_193f85ec9b06fd6b.md - Created processing task: PROCESS_EMAIL_193f85ec9b06fd6b.md.md
+Detected: EMAIL_193f81fc8db6613c.md - Created processing task: PROCESS_EMAIL_193f81fc8db6613c.md.md
+Detected: EMAIL_193f6d2ca281ace7.md - Created processing task: PROCESS_EMAIL_193f6d2ca281ace7.md.md
+Detected: EMAIL_193f664850b1a273.md - Created processing task: PROCESS_EMAIL_193f664850b1a273.md.md
+Detected: EMAIL_193f4bbc6b20e746.md - Created processing task: PROCESS_EMAIL_193f4bbc6b20e746.md.md
+Detected: EMAIL_193f4711379ce926.md - Created processing task: PROCESS_EMAIL_193f4711379ce926.md.md
+Detected: EMAIL_193f3fb8376cca42.md - Created processing task: PROCESS_EMAIL_193f3fb8376cca42.md.md
+Detected: EMAIL_193f3f07f0abc327.md - Created processing task: PROCESS_EMAIL_193f3f07f0abc327.md.md
+Detected: EMAIL_193f13e269550074.md - Created processing task: PROCESS_EMAIL_193f13e269550074.md.md
+Detected: EMAIL_193f02aa2d271877.md - Created processing task: PROCESS_EMAIL_193f02aa2d271877.md.md
+Detected: EMAIL_193ef9c4225b63c9.md - Created processing task: PROCESS_EMAIL_193ef9c4225b63c9.md.md
+Detected: EMAIL_193ef36b610fe727.md - Created processing task: PROCESS_EMAIL_193ef36b610fe727.md.md
+Detected: EMAIL_193eeca15f4d89b6.md - Created processing task: PROCESS_EMAIL_193eeca15f4d89b6.md.md
+Detected: EMAIL_193eebd8e05eeb7a.md - Created processing task: PROCESS_EMAIL_193eebd8e05eeb7a.md.md
+Detected: EMAIL_193ec5a4363156a5.md - Created processing task: PROCESS_EMAIL_193ec5a4363156a5.md.md
+Detected: EMAIL_193ec17cd3f22f31.md - Created processing task: PROCESS_EMAIL_193ec17cd3f22f31.md.md
+Detected: EMAIL_193ea1a195f9613c.md - Created processing task: PROCESS_EMAIL_193ea1a195f9613c.md.md
+Detected: EMAIL_193e9a3b5d40bff5.md - Created processing task: PROCESS_EMAIL_193e9a3b5d40bff5.md.md
+Detected: EMAIL_193e98da840b1870.md - Created processing task: PROCESS_EMAIL_193e98da840b1870.md.md
+Detected: EMAIL_193e6fd4c91303f3.md - Created processing task: PROCESS_EMAIL_193e6fd4c91303f3.md.md
+Detected: EMAIL_193e6f16f16d56f0.md - Created processing task: PROCESS_EMAIL_193e6f16f16d56f0.md.md
+Detected: EMAIL_193e4faded3596c4.md - Created processing task: PROCESS_EMAIL_193e4faded3596c4.md.md
+Detected: EMAIL_193e481eaa529ffb.md - Created processing task: PROCESS_EMAIL_193e481eaa529ffb.md.md
+Detected: EMAIL_193e47e45f2690fd.md - Created processing task: PROCESS_EMAIL_193e47e45f2690fd.md.md
+Detected: EMAIL_193e38e6faafc3d0.md - Created processing task: PROCESS_EMAIL_193e38e6faafc3d0.md.md
+Detected: EMAIL_193e1cb12834288e.md - Created processing task: PROCESS_EMAIL_193e1cb12834288e.md.md
+Detected: EMAIL_193e0b6e81bbee65.md - Created processing task: PROCESS_EMAIL_193e0b6e81bbee65.md.md
+Detected: EMAIL_193e03672148db64.md - Created processing task: PROCESS_EMAIL_193e03672148db64.md.md
+Detected: EMAIL_193dff368eea021b.md - Created processing task: PROCESS_EMAIL_193dff368eea021b.md.md
+Detected: EMAIL_193dfd08e41dc632.md - Created processing task: PROCESS_EMAIL_193dfd08e41dc632.md.md
+Detected: EMAIL_193df56fefa49683.md - Created processing task: PROCESS_EMAIL_193df56fefa49683.md.md
+Detected: EMAIL_193df3be46c26c8f.md - Created processing task: PROCESS_EMAIL_193df3be46c26c8f.md.md
+Detected: EMAIL_193dcde87c1aa0d3.md - Created processing task: PROCESS_EMAIL_193dcde87c1aa0d3.md.md
+Detected: EMAIL_193dca4b44abd4fb.md - Created processing task: PROCESS_EMAIL_193dca4b44abd4fb.md.md
+Detected: EMAIL_193daf4403b092fe.md - Created processing task: PROCESS_EMAIL_193daf4403b092fe.md.md
+Detected: EMAIL_193dac0080f83ef1.md - Created processing task: PROCESS_EMAIL_193dac0080f83ef1.md.md
+Detected: EMAIL_193da495828d8f35.md - Created processing task: PROCESS_EMAIL_193da495828d8f35.md.md
+Detected: EMAIL_193da37defcb54bb.md - Created processing task: PROCESS_EMAIL_193da37defcb54bb.md.md
+Detected: EMAIL_193da30b0e93bb99.md - Created processing task: PROCESS_EMAIL_193da30b0e93bb99.md.md
+Detected: EMAIL_193d9dd80916d259.md - Created processing task: PROCESS_EMAIL_193d9dd80916d259.md.md
+Detected: EMAIL_193d9dbcb4c60f02.md - Created processing task: PROCESS_EMAIL_193d9dbcb4c60f02.md.md
+Detected: EMAIL_193d941b63a260e0.md - Created processing task: PROCESS_EMAIL_193d941b63a260e0.md.md
+Detected: EMAIL_193d85e16bb89087.md - Created processing task: PROCESS_EMAIL_193d85e16bb89087.md.md
+Detected: EMAIL_193d77e589c18e04.md - Created processing task: PROCESS_EMAIL_193d77e589c18e04.md.md
+Detected: EMAIL_193d5dcb29e30771.md - Created processing task: PROCESS_EMAIL_193d5dcb29e30771.md.md
+Detected: EMAIL_193d590f3ea4753f.md - Created processing task: PROCESS_EMAIL_193d590f3ea4753f.md.md
+Detected: EMAIL_193d54d5b1fd7cc2.md - Created processing task: PROCESS_EMAIL_193d54d5b1fd7cc2.md.md
+Detected: EMAIL_193d50a477e5e721.md - Created processing task: PROCESS_EMAIL_193d50a477e5e721.md.md
+Detected: EMAIL_193d4f71745503d4.md - Created processing task: PROCESS_EMAIL_193d4f71745503d4.md.md
+Detected: EMAIL_193d452437ea92f1.md - Created processing task: PROCESS_EMAIL_193d452437ea92f1.md.md
+Detected: EMAIL_193d2580ffe8d007.md - Created processing task: PROCESS_EMAIL_193d2580ffe8d007.md.md
+Detected: EMAIL_193d143103b6e317.md - Created processing task: PROCESS_EMAIL_193d143103b6e317.md.md
+Detected: EMAIL_193d0d2c8104e40b.md - Created processing task: PROCESS_EMAIL_193d0d2c8104e40b.md.md
+Detected: EMAIL_193d05eafb95f240.md - Created processing task: PROCESS_EMAIL_193d05eafb95f240.md.md
+Detected: EMAIL_193cff944ffa2fe7.md - Created processing task: PROCESS_EMAIL_193cff944ffa2fe7.md.md
+Detected: EMAIL_193cfee656bf3f8a.md - Created processing task: PROCESS_EMAIL_193cfee656bf3f8a.md.md
+Detected: EMAIL_193cfe3e6b6b9b37.md - Created processing task: PROCESS_EMAIL_193cfe3e6b6b9b37.md.md
+Detected: EMAIL_193ce502ab5d76e9.md - Created processing task: PROCESS_EMAIL_193ce502ab5d76e9.md.md
+Detected: EMAIL_193cd319fbca4005.md - Created processing task: PROCESS_EMAIL_193cd319fbca4005.md.md
+Detected: EMAIL_193cb163a00fd1f9.md - Created processing task: PROCESS_EMAIL_193cb163a00fd1f9.md.md
+Detected: EMAIL_193cabd8c78e860e.md - Created processing task: PROCESS_EMAIL_193cabd8c78e860e.md.md
+Detected: EMAIL_193cab4abd5057d0.md - Created processing task: PROCESS_EMAIL_193cab4abd5057d0.md.md
+Detected: EMAIL_193c85e3cad3d3e4.md - Created processing task: PROCESS_EMAIL_193c85e3cad3d3e4.md.md
+Detected: EMAIL_193c80b3e6097e26.md - Created processing task: PROCESS_EMAIL_193c80b3e6097e26.md.md
+Detected: EMAIL_193c6182cffecf9a.md - Created processing task: PROCESS_EMAIL_193c6182cffecf9a.md.md
+Detected: EMAIL_193c5a62a9d9d1fb.md - Created processing task: PROCESS_EMAIL_193c5a62a9d9d1fb.md.md
+Detected: EMAIL_193c2f0d2e472539.md - Created processing task: PROCESS_EMAIL_193c2f0d2e472539.md.md
+Detected: EMAIL_193c2e4e6219f1d0.md - Created processing task: PROCESS_EMAIL_193c2e4e6219f1d0.md.md
+Detected: EMAIL_193c1ceba54b04b3.md - Created processing task: PROCESS_EMAIL_193c1ceba54b04b3.md.md
+Detected: EMAIL_193c0d92a6165e18.md - Created processing task: PROCESS_EMAIL_193c0d92a6165e18.md.md
+Detected: EMAIL_193c096f4dfa8962.md - Created processing task: PROCESS_EMAIL_193c096f4dfa8962.md.md
+Detected: EMAIL_193c07c3d0e44003.md - Created processing task: PROCESS_EMAIL_193c07c3d0e44003.md.md
+Detected: EMAIL_193bfb8dd966c662.md - Created processing task: PROCESS_EMAIL_193bfb8dd966c662.md.md
+Detected: EMAIL_193bdbe8dd591d28.md - Created processing task: PROCESS_EMAIL_193bdbe8dd591d28.md.md
+Detected: EMAIL_193bc212489404aa.md - Created processing task: PROCESS_EMAIL_193bc212489404aa.md.md
+Detected: EMAIL_193bb6acb64de4d2.md - Created processing task: PROCESS_EMAIL_193bb6acb64de4d2.md.md
+Detected: EMAIL_193bb4a76dff0e38.md - Created processing task: PROCESS_EMAIL_193bb4a76dff0e38.md.md
+Detected: EMAIL_193ba8b0d9c67cdd.md - Created processing task: PROCESS_EMAIL_193ba8b0d9c67cdd.md.md
+Detected: EMAIL_193ba5b8d5c66d00.md - Created processing task: PROCESS_EMAIL_193ba5b8d5c66d00.md.md
+Detected: EMAIL_193b8d8f8e82f619.md - Created processing task: PROCESS_EMAIL_193b8d8f8e82f619.md.md
+Detected: EMAIL_193b89831947795f.md - Created processing task: PROCESS_EMAIL_193b89831947795f.md.md
+Detected: EMAIL_193b7b82645d3fd1.md - Created processing task: PROCESS_EMAIL_193b7b82645d3fd1.md.md
+Detected: EMAIL_193b7b7c95c09384.md - Created processing task: PROCESS_EMAIL_193b7b7c95c09384.md.md
+Detected: EMAIL_193b6fc11da5d7e4.md - Created processing task: PROCESS_EMAIL_193b6fc11da5d7e4.md.md
+Detected: EMAIL_193b6a8b4e35b9db.md - Created processing task: PROCESS_EMAIL_193b6a8b4e35b9db.md.md
+Detected: EMAIL_193b62d331e5b158.md - Created processing task: PROCESS_EMAIL_193b62d331e5b158.md.md
+Detected: EMAIL_193b626bb9abf4cf.md - Created processing task: PROCESS_EMAIL_193b626bb9abf4cf.md.md
+Detected: EMAIL_193b59ca2e8667bb.md - Created processing task: PROCESS_EMAIL_193b59ca2e8667bb.md.md
+Detected: EMAIL_193b5404a86361d5.md - Created processing task: PROCESS_EMAIL_193b5404a86361d5.md.md
+Detected: EMAIL_193b52d48b3a4147.md - Created processing task: PROCESS_EMAIL_193b52d48b3a4147.md.md
+Detected: EMAIL_193b371d590c7e66.md - Created processing task: PROCESS_EMAIL_193b371d590c7e66.md.md
+Detected: EMAIL_193b2d8e6936a909.md - Created processing task: PROCESS_EMAIL_193b2d8e6936a909.md.md
+Detected: EMAIL_193b25ab4b4d6c92.md - Created processing task: PROCESS_EMAIL_193b25ab4b4d6c92.md.md
+Detected: EMAIL_193b1e8ec6c7a6b6.md - Created processing task: PROCESS_EMAIL_193b1e8ec6c7a6b6.md.md
+Detected: EMAIL_193b18f27d38b8ae.md - Created processing task: PROCESS_EMAIL_193b18f27d38b8ae.md.md
+Detected: EMAIL_193b16e849c066ff.md - Created processing task: PROCESS_EMAIL_193b16e849c066ff.md.md
+Detected: EMAIL_193b15bb533537c9.md - Created processing task: PROCESS_EMAIL_193b15bb533537c9.md.md
+Detected: EMAIL_193b0fdbeca3be93.md - Created processing task: PROCESS_EMAIL_193b0fdbeca3be93.md.md
+Detected: EMAIL_193b0f6fe341c511.md - Created processing task: PROCESS_EMAIL_193b0f6fe341c511.md.md
+Detected: EMAIL_193b0ea8d4b50389.md - Created processing task: PROCESS_EMAIL_193b0ea8d4b50389.md.md
+Detected: EMAIL_193b045c0fd91ff9.md - Created processing task: PROCESS_EMAIL_193b045c0fd91ff9.md.md
+Detected: EMAIL_193ae4b7a83c1507.md - Created processing task: PROCESS_EMAIL_193ae4b7a83c1507.md.md
+Detected: EMAIL_193acaac17fae593.md - Created processing task: PROCESS_EMAIL_193acaac17fae593.md.md
+Detected: EMAIL_193aca4d8d4d2fc0.md - Created processing task: PROCESS_EMAIL_193aca4d8d4d2fc0.md.md
+Detected: EMAIL_193ac62818df103e.md - Created processing task: PROCESS_EMAIL_193ac62818df103e.md.md
+Detected: EMAIL_193ac328dfb5765f.md - Created processing task: PROCESS_EMAIL_193ac328dfb5765f.md.md
+Detected: EMAIL_193abe275e9e3a90.md - Created processing task: PROCESS_EMAIL_193abe275e9e3a90.md.md
+Detected: EMAIL_193abd762f2ef9e7.md - Created processing task: PROCESS_EMAIL_193abd762f2ef9e7.md.md
+Detected: EMAIL_193aa5724f39dbbd.md - Created processing task: PROCESS_EMAIL_193aa5724f39dbbd.md.md
+Detected: EMAIL_193aa43b05e89ac1.md - Created processing task: PROCESS_EMAIL_193aa43b05e89ac1.md.md
+Detected: EMAIL_193a9251b172bf57.md - Created processing task: PROCESS_EMAIL_193a9251b172bf57.md.md
+Detected: EMAIL_193a80d4b51f0bc0.md - Created processing task: PROCESS_EMAIL_193a80d4b51f0bc0.md.md
+Detected: EMAIL_193a7ff26a583c87.md - Created processing task: PROCESS_EMAIL_193a7ff26a583c87.md.md
+Detected: EMAIL_193a744bd95c1c54.md - Created processing task: PROCESS_EMAIL_193a744bd95c1c54.md.md
+Detected: EMAIL_193a6b1079e0776a.md - Created processing task: PROCESS_EMAIL_193a6b1079e0776a.md.md
+Detected: EMAIL_193a45184ab0af75.md - Created processing task: PROCESS_EMAIL_193a45184ab0af75.md.md
+Detected: EMAIL_193a3fecc559473b.md - Created processing task: PROCESS_EMAIL_193a3fecc559473b.md.md
+Detected: EMAIL_193a26bc9d59a229.md - Created processing task: PROCESS_EMAIL_193a26bc9d59a229.md.md
+Detected: EMAIL_193a1f57d9b8b514.md - Created processing task: PROCESS_EMAIL_193a1f57d9b8b514.md.md
+Detected: EMAIL_193a18aac4064232.md - Created processing task: PROCESS_EMAIL_193a18aac4064232.md.md
+Detected: EMAIL_1939ed86a3d95a22.md - Created processing task: PROCESS_EMAIL_1939ed86a3d95a22.md.md
+Detected: EMAIL_1939dc014c78d313.md - Created processing task: PROCESS_EMAIL_1939dc014c78d313.md.md
+Detected: EMAIL_1939d551a144ff4b.md - Created processing task: PROCESS_EMAIL_1939d551a144ff4b.md.md
+Detected: EMAIL_1939cdc858a5841b.md - Created processing task: PROCESS_EMAIL_1939cdc858a5841b.md.md
+Detected: EMAIL_1939c880eb14f80a.md - Created processing task: PROCESS_EMAIL_1939c880eb14f80a.md.md
+Detected: EMAIL_1939c734d73cad7c.md - Created processing task: PROCESS_EMAIL_1939c734d73cad7c.md.md
+Detected: EMAIL_1939c644d20eeae8.md - Created processing task: PROCESS_EMAIL_1939c644d20eeae8.md.md
+Detected: EMAIL_1939bac633709077.md - Created processing task: PROCESS_EMAIL_1939bac633709077.md.md
+Detected: EMAIL_1939ba9327f5ef42.md - Created processing task: PROCESS_EMAIL_1939ba9327f5ef42.md.md
+Detected: EMAIL_1939b75cd233e69c.md - Created processing task: PROCESS_EMAIL_1939b75cd233e69c.md.md
+Detected: EMAIL_19399b21ce2dca2d.md - Created processing task: PROCESS_EMAIL_19399b21ce2dca2d.md.md
+Detected: EMAIL_19398fa3946926bb.md - Created processing task: PROCESS_EMAIL_19398fa3946926bb.md.md
+Detected: EMAIL_19398dead64ec890.md - Created processing task: PROCESS_EMAIL_19398dead64ec890.md.md
+Detected: EMAIL_19398d5438656bde.md - Created processing task: PROCESS_EMAIL_19398d5438656bde.md.md
+Detected: EMAIL_193989a2804a54de.md - Created processing task: PROCESS_EMAIL_193989a2804a54de.md.md
+Detected: EMAIL_19398773438ff248.md - Created processing task: PROCESS_EMAIL_19398773438ff248.md.md
+Detected: EMAIL_1939828d7cead667.md - Created processing task: PROCESS_EMAIL_1939828d7cead667.md.md
+Detected: EMAIL_1939824b19a231a4.md - Created processing task: PROCESS_EMAIL_1939824b19a231a4.md.md
+Detected: EMAIL_193980ef1008621a.md - Created processing task: PROCESS_EMAIL_193980ef1008621a.md.md
+Detected: EMAIL_19397fce3f7b25af.md - Created processing task: PROCESS_EMAIL_19397fce3f7b25af.md.md
+Detected: EMAIL_19397f72e43b97c8.md - Created processing task: PROCESS_EMAIL_19397f72e43b97c8.md.md
+Detected: EMAIL_19397b2f220ba04b.md - Created processing task: PROCESS_EMAIL_19397b2f220ba04b.md.md
+Detected: EMAIL_19397afaf387112d.md - Created processing task: PROCESS_EMAIL_19397afaf387112d.md.md
+Detected: EMAIL_19397588ae20d2a5.md - Created processing task: PROCESS_EMAIL_19397588ae20d2a5.md.md
+Detected: EMAIL_193973dff1fac5fe.md - Created processing task: PROCESS_EMAIL_193973dff1fac5fe.md.md
+Detected: EMAIL_19396d56a1a84b03.md - Created processing task: PROCESS_EMAIL_19396d56a1a84b03.md.md
+Detected: EMAIL_19396d0c8c350827.md - Created processing task: PROCESS_EMAIL_19396d0c8c350827.md.md
+Detected: EMAIL_19394ca72b94d573.md - Created processing task: PROCESS_EMAIL_19394ca72b94d573.md.md
+Detected: EMAIL_193948bb11ab8dd0.md - Created processing task: PROCESS_EMAIL_193948bb11ab8dd0.md.md
+Detected: EMAIL_193933d01e7e0773.md - Created processing task: PROCESS_EMAIL_193933d01e7e0773.md.md
+Detected: EMAIL_193930e8828a28d8.md - Created processing task: PROCESS_EMAIL_193930e8828a28d8.md.md
+Detected: EMAIL_19392faa073c4bd7.md - Created processing task: PROCESS_EMAIL_19392faa073c4bd7.md.md
+Detected: EMAIL_19392f415dadae1a.md - Created processing task: PROCESS_EMAIL_19392f415dadae1a.md.md
+Detected: EMAIL_19392efdfa76c8fd.md - Created processing task: PROCESS_EMAIL_19392efdfa76c8fd.md.md
+Detected: EMAIL_19392b83c3a3c4b5.md - Created processing task: PROCESS_EMAIL_19392b83c3a3c4b5.md.md
+Detected: EMAIL_193927ca8ccdbac3.md - Created processing task: PROCESS_EMAIL_193927ca8ccdbac3.md.md
+Detected: EMAIL_1939273dd90c6852.md - Created processing task: PROCESS_EMAIL_1939273dd90c6852.md.md
+Detected: EMAIL_193926cef82e23b6.md - Created processing task: PROCESS_EMAIL_193926cef82e23b6.md.md
+Detected: EMAIL_193926b8324360c8.md - Created processing task: PROCESS_EMAIL_193926b8324360c8.md.md
+Detected: EMAIL_193926b794d9d220.md - Created processing task: PROCESS_EMAIL_193926b794d9d220.md.md
+Detected: EMAIL_19392602a6d141bf.md - Created processing task: PROCESS_EMAIL_19392602a6d141bf.md.md
+Detected: EMAIL_193921e595f8cf92.md - Created processing task: PROCESS_EMAIL_193921e595f8cf92.md.md
+Detected: EMAIL_1939217a3ae4d69a.md - Created processing task: PROCESS_EMAIL_1939217a3ae4d69a.md.md
+Detected: EMAIL_19391b38206d8a96.md - Created processing task: PROCESS_EMAIL_19391b38206d8a96.md.md
+Detected: EMAIL_1938f654d6ffb3c1.md - Created processing task: PROCESS_EMAIL_1938f654d6ffb3c1.md.md
+Detected: EMAIL_1938eefd40c12079.md - Created processing task: PROCESS_EMAIL_1938eefd40c12079.md.md
+Detected: EMAIL_1938df93660994d0.md - Created processing task: PROCESS_EMAIL_1938df93660994d0.md.md
+Detected: EMAIL_1938df8fe535e7c5.md - Created processing task: PROCESS_EMAIL_1938df8fe535e7c5.md.md
+Detected: EMAIL_1938dd1bec4fe8b6.md - Created processing task: PROCESS_EMAIL_1938dd1bec4fe8b6.md.md
+Detected: EMAIL_1938dcc18f9e6862.md - Created processing task: PROCESS_EMAIL_1938dcc18f9e6862.md.md
+Detected: EMAIL_1938db35bd7a8743.md - Created processing task: PROCESS_EMAIL_1938db35bd7a8743.md.md
+Detected: EMAIL_1938d6d8ca5fd949.md - Created processing task: PROCESS_EMAIL_1938d6d8ca5fd949.md.md
+Detected: EMAIL_1938d5ed059f8f8a.md - Created processing task: PROCESS_EMAIL_1938d5ed059f8f8a.md.md
+Detected: EMAIL_1938d4c5627994e3.md - Created processing task: PROCESS_EMAIL_1938d4c5627994e3.md.md
+Detected: EMAIL_1938d0350f9df575.md - Created processing task: PROCESS_EMAIL_1938d0350f9df575.md.md
+Detected: EMAIL_1938cf141769f3ea.md - Created processing task: PROCESS_EMAIL_1938cf141769f3ea.md.md
+Detected: EMAIL_1938ca35f79d985d.md - Created processing task: PROCESS_EMAIL_1938ca35f79d985d.md.md
+Detected: EMAIL_1938c4184d7567c8.md - Created processing task: PROCESS_EMAIL_1938c4184d7567c8.md.md
+Detected: EMAIL_1938c393adfc303f.md - Created processing task: PROCESS_EMAIL_1938c393adfc303f.md.md
+Detected: EMAIL_1938c3171340d3d2.md - Created processing task: PROCESS_EMAIL_1938c3171340d3d2.md.md
+Detected: EMAIL_1938ad5d477db578.md - Created processing task: PROCESS_EMAIL_1938ad5d477db578.md.md
+Detected: EMAIL_1938a3ef9bd57f15.md - Created processing task: PROCESS_EMAIL_1938a3ef9bd57f15.md.md
+Detected: EMAIL_19388bb3c48ffcb7.md - Created processing task: PROCESS_EMAIL_19388bb3c48ffcb7.md.md
+Detected: EMAIL_193887654bee19d2.md - Created processing task: PROCESS_EMAIL_193887654bee19d2.md.md
+Detected: EMAIL_1938842031de3fb8.md - Created processing task: PROCESS_EMAIL_1938842031de3fb8.md.md
+Detected: EMAIL_19387d5e1bba5f8c.md - Created processing task: PROCESS_EMAIL_19387d5e1bba5f8c.md.md
+Detected: EMAIL_19387cadf4e6dd71.md - Created processing task: PROCESS_EMAIL_19387cadf4e6dd71.md.md
+Detected: EMAIL_1938637278e07f5b.md - Created processing task: PROCESS_EMAIL_1938637278e07f5b.md.md
+Detected: EMAIL_19385189aed671df.md - Created processing task: PROCESS_EMAIL_19385189aed671df.md.md
+Detected: EMAIL_19383b0ced55e97d.md - Created processing task: PROCESS_EMAIL_19383b0ced55e97d.md.md
+Detected: EMAIL_193833a2f2271cb0.md - Created processing task: PROCESS_EMAIL_193833a2f2271cb0.md.md
+Detected: EMAIL_19382d42f62e21f2.md - Created processing task: PROCESS_EMAIL_19382d42f62e21f2.md.md
+Detected: EMAIL_19382a483162c9d0.md - Created processing task: PROCESS_EMAIL_19382a483162c9d0.md.md
+Detected: EMAIL_193822b8a912b8dd.md - Created processing task: PROCESS_EMAIL_193822b8a912b8dd.md.md
+Detected: EMAIL_19380a1830030498.md - Created processing task: PROCESS_EMAIL_19380a1830030498.md.md
+Detected: EMAIL_1938044e8ecaae75.md - Created processing task: PROCESS_EMAIL_1938044e8ecaae75.md.md
+Detected: EMAIL_1937ff23c46a3759.md - Created processing task: PROCESS_EMAIL_1937ff23c46a3759.md.md
+Detected: EMAIL_1937e5dd714d2674.md - Created processing task: PROCESS_EMAIL_1937e5dd714d2674.md.md
+Detected: EMAIL_1937dd753d0b3132.md - Created processing task: PROCESS_EMAIL_1937dd753d0b3132.md.md
+Detected: EMAIL_1937d7e27dde16da.md - Created processing task: PROCESS_EMAIL_1937d7e27dde16da.md.md
+Detected: EMAIL_1937acbe0aacfae7.md - Created processing task: PROCESS_EMAIL_1937acbe0aacfae7.md.md
+Detected: EMAIL_193793567747d574.md - Created processing task: PROCESS_EMAIL_193793567747d574.md.md
+Detected: EMAIL_19378d35cf917ecb.md - Created processing task: PROCESS_EMAIL_19378d35cf917ecb.md.md
+Detected: EMAIL_19378640c1733c3f.md - Created processing task: PROCESS_EMAIL_19378640c1733c3f.md.md
+Detected: EMAIL_1937857e24bcba12.md - Created processing task: PROCESS_EMAIL_1937857e24bcba12.md.md
+Detected: EMAIL_193779fdbb55e6d6.md - Created processing task: PROCESS_EMAIL_193779fdbb55e6d6.md.md
+Detected: EMAIL_1937768d80ad039b.md - Created processing task: PROCESS_EMAIL_1937768d80ad039b.md.md
+Detected: EMAIL_19375a5908e1bb94.md - Created processing task: PROCESS_EMAIL_19375a5908e1bb94.md.md
+Detected: EMAIL_19373f322353b0f8.md - Created processing task: PROCESS_EMAIL_19373f322353b0f8.md.md
+Detected: EMAIL_19373440b4fd17a3.md - Created processing task: PROCESS_EMAIL_19373440b4fd17a3.md.md
+Detected: EMAIL_1937331eb788aaae.md - Created processing task: PROCESS_EMAIL_1937331eb788aaae.md.md
+Detected: EMAIL_1937244e6bf76401.md - Created processing task: PROCESS_EMAIL_1937244e6bf76401.md.md
+Detected: EMAIL_193707f2a82f8ad5.md - Created processing task: PROCESS_EMAIL_193707f2a82f8ad5.md.md
+Detected: EMAIL_1936ef203ebe3959.md - Created processing task: PROCESS_EMAIL_1936ef203ebe3959.md.md
+Detected: EMAIL_1936ebe145dc312b.md - Created processing task: PROCESS_EMAIL_1936ebe145dc312b.md.md
+Detected: EMAIL_1936e9718af8af39.md - Created processing task: PROCESS_EMAIL_1936e9718af8af39.md.md
+Detected: EMAIL_1936e8cb4969c341.md - Created processing task: PROCESS_EMAIL_1936e8cb4969c341.md.md
+Detected: EMAIL_1936e7ada74da653.md - Created processing task: PROCESS_EMAIL_1936e7ada74da653.md.md
+Detected: EMAIL_1936e71bfca93501.md - Created processing task: PROCESS_EMAIL_1936e71bfca93501.md.md
+Detected: EMAIL_1936e15532d167ed.md - Created processing task: PROCESS_EMAIL_1936e15532d167ed.md.md
+Detected: EMAIL_1936e0b273b9a4e4.md - Created processing task: PROCESS_EMAIL_1936e0b273b9a4e4.md.md
+Detected: EMAIL_1936b58cf9cc1e8d.md - Created processing task: PROCESS_EMAIL_1936b58cf9cc1e8d.md.md
+Detected: EMAIL_1936998af591c462.md - Created processing task: PROCESS_EMAIL_1936998af591c462.md.md
+Detected: EMAIL_1936920ceb169db5.md - Created processing task: PROCESS_EMAIL_1936920ceb169db5.md.md
+Detected: EMAIL_19368e4c0387df8e.md - Created processing task: PROCESS_EMAIL_19368e4c0387df8e.md.md
+Detected: EMAIL_193682cc347c786f.md - Created processing task: PROCESS_EMAIL_193682cc347c786f.md.md
+Detected: EMAIL_19367edcafe7264b.md - Created processing task: PROCESS_EMAIL_19367edcafe7264b.md.md
+Detected: EMAIL_193677ff2aa9ac84.md - Created processing task: PROCESS_EMAIL_193677ff2aa9ac84.md.md
+Detected: EMAIL_193671b57ee26692.md - Created processing task: PROCESS_EMAIL_193671b57ee26692.md.md
+Detected: EMAIL_1936632797b7c423.md - Created processing task: PROCESS_EMAIL_1936632797b7c423.md.md
+Detected: EMAIL_193644ffd1a41558.md - Created processing task: PROCESS_EMAIL_193644ffd1a41558.md.md
+Detected: EMAIL_19363e6dacb9cdfd.md - Created processing task: PROCESS_EMAIL_19363e6dacb9cdfd.md.md
+Detected: EMAIL_19363c9342a1785c.md - Created processing task: PROCESS_EMAIL_19363c9342a1785c.md.md
+Detected: EMAIL_19362c857765a9be.md - Created processing task: PROCESS_EMAIL_19362c857765a9be.md.md
+Detected: EMAIL_193622aa081c6fb5.md - Created processing task: PROCESS_EMAIL_193622aa081c6fb5.md.md
+Detected: EMAIL_193610c13604ffc4.md - Created processing task: PROCESS_EMAIL_193610c13604ffc4.md.md
+Detected: EMAIL_1935f56e6a4a35a7.md - Created processing task: PROCESS_EMAIL_1935f56e6a4a35a7.md.md
+Detected: EMAIL_1935e9804ab23663.md - Created processing task: PROCESS_EMAIL_1935e9804ab23663.md.md
+Detected: EMAIL_1935c383229da8e5.md - Created processing task: PROCESS_EMAIL_1935c383229da8e5.md.md
+Detected: EMAIL_1935be5b5f4c3246.md - Created processing task: PROCESS_EMAIL_1935be5b5f4c3246.md.md
+Detected: EMAIL_1935a8a7dece7ee3.md - Created processing task: PROCESS_EMAIL_1935a8a7dece7ee3.md.md
+Detected: EMAIL_1935a1b8d298da50.md - Created processing task: PROCESS_EMAIL_1935a1b8d298da50.md.md
+Detected: EMAIL_19359a9f95d92b52.md - Created processing task: PROCESS_EMAIL_19359a9f95d92b52.md.md
+Detected: EMAIL_1935971ab4f7034e.md - Created processing task: PROCESS_EMAIL_1935971ab4f7034e.md.md
+Detected: EMAIL_19356cb3d10de14c.md - Created processing task: PROCESS_EMAIL_19356cb3d10de14c.md.md
+Detected: EMAIL_19356bf615eeaf46.md - Created processing task: PROCESS_EMAIL_19356bf615eeaf46.md.md
+Detected: EMAIL_1935544e8661c17b.md - Created processing task: PROCESS_EMAIL_1935544e8661c17b.md.md
+Detected: EMAIL_193550ab5fed6faa.md - Created processing task: PROCESS_EMAIL_193550ab5fed6faa.md.md
+Detected: EMAIL_193549a4d5ab1aa5.md - Created processing task: PROCESS_EMAIL_193549a4d5ab1aa5.md.md
+Detected: EMAIL_193546f157c612fb.md - Created processing task: PROCESS_EMAIL_193546f157c612fb.md.md
+Detected: EMAIL_193545349070291a.md - Created processing task: PROCESS_EMAIL_193545349070291a.md.md
+Detected: EMAIL_193544b4e23b1e96.md - Created processing task: PROCESS_EMAIL_193544b4e23b1e96.md.md
+Detected: EMAIL_193542d7ac957be5.md - Created processing task: PROCESS_EMAIL_193542d7ac957be5.md.md
+Detected: EMAIL_1935393718a43986.md - Created processing task: PROCESS_EMAIL_1935393718a43986.md.md
+Detected: EMAIL_193535c5d0324255.md - Created processing task: PROCESS_EMAIL_193535c5d0324255.md.md
+Detected: EMAIL_1935198fe2ffe38b.md - Created processing task: PROCESS_EMAIL_1935198fe2ffe38b.md.md
+Detected: EMAIL_193505b5a2829baf.md - Created processing task: PROCESS_EMAIL_193505b5a2829baf.md.md
+Detected: EMAIL_1934fffe5e360576.md - Created processing task: PROCESS_EMAIL_1934fffe5e360576.md.md
+Detected: EMAIL_1934f7c6ada17cd9.md - Created processing task: PROCESS_EMAIL_1934f7c6ada17cd9.md.md
+Detected: EMAIL_1934f38fefbb614f.md - Created processing task: PROCESS_EMAIL_1934f38fefbb614f.md.md
+Detected: EMAIL_1934f24f17c7f2ac.md - Created processing task: PROCESS_EMAIL_1934f24f17c7f2ac.md.md
+Detected: EMAIL_1934edc49a44719f.md - Created processing task: PROCESS_EMAIL_1934edc49a44719f.md.md
+Detected: EMAIL_1934c72a1f0256ad.md - Created processing task: PROCESS_EMAIL_1934c72a1f0256ad.md.md
+Detected: EMAIL_1934ac0b36d661ad.md - Created processing task: PROCESS_EMAIL_1934ac0b36d661ad.md.md
+Detected: EMAIL_1934aa09cc694b8e.md - Created processing task: PROCESS_EMAIL_1934aa09cc694b8e.md.md
+Detected: EMAIL_1934a3e959af0fa0.md - Created processing task: PROCESS_EMAIL_1934a3e959af0fa0.md.md
+Detected: EMAIL_19349fe9d19ecf44.md - Created processing task: PROCESS_EMAIL_19349fe9d19ecf44.md.md
+Detected: EMAIL_19349fc15e294614.md - Created processing task: PROCESS_EMAIL_19349fc15e294614.md.md
+Detected: EMAIL_19349f99c0b3d72d.md - Created processing task: PROCESS_EMAIL_19349f99c0b3d72d.md.md
+Detected: EMAIL_193490fd8854e731.md - Created processing task: PROCESS_EMAIL_193490fd8854e731.md.md
+Detected: EMAIL_1934907a55531196.md - Created processing task: PROCESS_EMAIL_1934907a55531196.md.md
+Detected: EMAIL_193474c4e9df1dab.md - Created processing task: PROCESS_EMAIL_193474c4e9df1dab.md.md
+Detected: EMAIL_193468276532938a.md - Created processing task: PROCESS_EMAIL_193468276532938a.md.md
+Detected: EMAIL_1934515cd565429d.md - Created processing task: PROCESS_EMAIL_1934515cd565429d.md.md
+Detected: EMAIL_19344d8ae4b8f956.md - Created processing task: PROCESS_EMAIL_19344d8ae4b8f956.md.md
+Detected: EMAIL_19344203bb60aff7.md - Created processing task: PROCESS_EMAIL_19344203bb60aff7.md.md
+Detected: EMAIL_1934225eb36473d8.md - Created processing task: PROCESS_EMAIL_1934225eb36473d8.md.md
+Detected: EMAIL_1934038d35887799.md - Created processing task: PROCESS_EMAIL_1934038d35887799.md.md
+Detected: EMAIL_1933fd6ff16d0001.md - Created processing task: PROCESS_EMAIL_1933fd6ff16d0001.md.md
+Detected: EMAIL_1933fc3e523eae91.md - Created processing task: PROCESS_EMAIL_1933fc3e523eae91.md.md
+Detected: EMAIL_1933fb723469283e.md - Created processing task: PROCESS_EMAIL_1933fb723469283e.md.md
+Detected: EMAIL_1933fb1d935efefd.md - Created processing task: PROCESS_EMAIL_1933fb1d935efefd.md.md
+Detected: EMAIL_1933e1e21df89e41.md - Created processing task: PROCESS_EMAIL_1933e1e21df89e41.md.md
+Detected: EMAIL_1933d0b6cdf0c223.md - Created processing task: PROCESS_EMAIL_1933d0b6cdf0c223.md.md
+Detected: EMAIL_1933cff92f2d60b7.md - Created processing task: PROCESS_EMAIL_1933cff92f2d60b7.md.md
+Detected: EMAIL_1933b52fec3fd791.md - Created processing task: PROCESS_EMAIL_1933b52fec3fd791.md.md
+Detected: EMAIL_1933a8b835516e03.md - Created processing task: PROCESS_EMAIL_1933a8b835516e03.md.md
+Detected: EMAIL_19337d9361497211.md - Created processing task: PROCESS_EMAIL_19337d9361497211.md.md
+Detected: EMAIL_1933689e39280df5.md - Created processing task: PROCESS_EMAIL_1933689e39280df5.md.md
+Detected: EMAIL_19336106672ea664.md - Created processing task: PROCESS_EMAIL_19336106672ea664.md.md
+Detected: EMAIL_1933598310d2166a.md - Created processing task: PROCESS_EMAIL_1933598310d2166a.md.md
+Detected: EMAIL_193356b723c582b8.md - Created processing task: PROCESS_EMAIL_193356b723c582b8.md.md
+Detected: EMAIL_19335655bb2fc8fb.md - Created processing task: PROCESS_EMAIL_19335655bb2fc8fb.md.md
+Detected: EMAIL_1933522ff756e26d.md - Created processing task: PROCESS_EMAIL_1933522ff756e26d.md.md
+Detected: EMAIL_19332bec3d1469f4.md - Created processing task: PROCESS_EMAIL_19332bec3d1469f4.md.md
+Detected: EMAIL_19332b2d68dcfcf4.md - Created processing task: PROCESS_EMAIL_19332b2d68dcfcf4.md.md
+Detected: EMAIL_193306974555cc5f.md - Created processing task: PROCESS_EMAIL_193306974555cc5f.md.md
+Detected: EMAIL_193303ecd061bd73.md - Created processing task: PROCESS_EMAIL_193303ecd061bd73.md.md
+Detected: EMAIL_193302b92b789636.md - Created processing task: PROCESS_EMAIL_193302b92b789636.md.md
+Detected: EMAIL_1932f86cb5408db9.md - Created processing task: PROCESS_EMAIL_1932f86cb5408db9.md.md
+Detected: EMAIL_1932dc53f27f17c0.md - Created processing task: PROCESS_EMAIL_1932dc53f27f17c0.md.md
+Detected: EMAIL_1932d9862b8c3383.md - Created processing task: PROCESS_EMAIL_1932d9862b8c3383.md.md
+Detected: EMAIL_1932d8c7dac948fa.md - Created processing task: PROCESS_EMAIL_1932d8c7dac948fa.md.md
+Detected: EMAIL_1932bfdf1e54f3fd.md - Created processing task: PROCESS_EMAIL_1932bfdf1e54f3fd.md.md
+Detected: EMAIL_1932b1a2efd1a55d.md - Created processing task: PROCESS_EMAIL_1932b1a2efd1a55d.md.md
+Detected: EMAIL_1932b1870e4e930f.md - Created processing task: PROCESS_EMAIL_1932b1870e4e930f.md.md
+Detected: EMAIL_1932b056d7e11070.md - Created processing task: PROCESS_EMAIL_1932b056d7e11070.md.md
+Detected: EMAIL_1932a20f95f63575.md - Created processing task: PROCESS_EMAIL_1932a20f95f63575.md.md
+Detected: EMAIL_19328662645d340b.md - Created processing task: PROCESS_EMAIL_19328662645d340b.md.md
+Detected: EMAIL_19326b1fca1e21d5.md - Created processing task: PROCESS_EMAIL_19326b1fca1e21d5.md.md
+Detected: EMAIL_1932696a30dae53e.md - Created processing task: PROCESS_EMAIL_1932696a30dae53e.md.md
+Detected: EMAIL_193265de8976f64c.md - Created processing task: PROCESS_EMAIL_193265de8976f64c.md.md
+Detected: EMAIL_193260b5aba2eca7.md - Created processing task: PROCESS_EMAIL_193260b5aba2eca7.md.md
+Detected: EMAIL_19325f21f644aa68.md - Created processing task: PROCESS_EMAIL_19325f21f644aa68.md.md
+Detected: EMAIL_19325e54839a68bd.md - Created processing task: PROCESS_EMAIL_19325e54839a68bd.md.md
+Detected: EMAIL_193254c333f3dd90.md - Created processing task: PROCESS_EMAIL_193254c333f3dd90.md.md
+Detected: EMAIL_193234ba4f02e851.md - Created processing task: PROCESS_EMAIL_193234ba4f02e851.md.md
+Detected: EMAIL_193233fc4c30ff99.md - Created processing task: PROCESS_EMAIL_193233fc4c30ff99.md.md
+Detected: EMAIL_19322d39a33e1acb.md - Created processing task: PROCESS_EMAIL_19322d39a33e1acb.md.md
+Detected: EMAIL_19321e61cab29e1f.md - Created processing task: PROCESS_EMAIL_19321e61cab29e1f.md.md
+Detected: EMAIL_1932179ca1cc9ace.md - Created processing task: PROCESS_EMAIL_1932179ca1cc9ace.md.mdTraceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\watcher\inbox_watcher.py", line 10, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'

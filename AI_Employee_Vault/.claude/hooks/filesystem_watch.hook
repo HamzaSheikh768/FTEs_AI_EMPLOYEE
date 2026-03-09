@@ -1,0 +1,12 @@
+# Filesystem Watch Hook
+
+# This hook provides the path to monitor for the FileSystemWatcher skill
+# The path is injected at runtime to avoid any .env file access
+
+# Example configuration
+WATCH_PATH="/path/to/monitor"
+
+# Instructions for users:
+# 1. Replace /path/to/monitor with the actual path to watch
+# 2. Ensure the path exists and has appropriate read permissions
+# 3. Restart the AI Employee system after updating this hook

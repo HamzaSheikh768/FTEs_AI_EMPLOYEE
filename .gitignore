@@ -1,0 +1,6 @@
+.env
+__pycache__
+
+.vscode
+.whatsapp_session
+.linkedin_session

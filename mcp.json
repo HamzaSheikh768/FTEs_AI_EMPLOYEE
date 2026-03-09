@@ -1,0 +1,124 @@
+{
+    "mcpServers": {
+        "context7": {
+            "type": "stdio",
+            "command": "npx",
+            "args": [
+                "@upstash/context7-mcp"
+            ],
+            "env": {}
+        },
+        "playwright": {
+            "command": "npx",
+            "args": [
+                "@playwright/mcp@latest"
+            ]
+        },
+        "linkedin": {
+            "command": "python",
+            "args": [
+                "mcp_servers/linkedin_poster_server.py"
+            ],
+            "env": {}
+        },
+        "meta": {
+            "command": "python",
+            "args": [
+                "mcp_servers/meta_mcp.py"
+            ],
+            "env": {
+                "FACEBOOK_APP_ID": "777688488287556",
+                "FACEBOOK_APP_SECRET": "7d7534fa2ff641917a0072d3f0ea2df1",
+                "FACEBOOK_PAGE_ACCESS_TOKEN": "YOUR_PAGE_ACCESS_TOKEN_HERE",
+                "INSTAGRAM_BUSINESS_ACCOUNT_ID": "YOUR_IG_ACCOUNT_ID_HERE",
+                "INSTAGRAM_ACCESS_TOKEN": "YOUR_IG_ACCESS_TOKEN_HERE",
+                "VAULT_PATH": "AI_Employee_Vault"
+            }
+        },
+        "twitter_api": {
+            "command": "python",
+            "args": [
+                "mcp_servers/twitter_api_v2.py"
+            ],
+            "env": {
+                "TWITTER_API_KEY": "5yTMh9CTRuYwtrfhYsxStQI9T",
+                "TWITTER_API_SECRET_KEY": "rx4D4EHNkwAqoxbK428bNEG6gz1dRncXVyvG5NZ94zifsR1AE6",
+                "TWITTER_ACCESS_TOKEN": "2027363959117127681-XYpSWcw4dR2q44SvIiYfUENxlj0ozw",
+                "TWITTER_ACCESS_TOKEN_SECRET": "5owX8d6R77LGOVRdbJ9UrCVHlNfzxL9mfhKn39yypyZ0R",
+                "VAULT_PATH": "AI_Employee_Vault"
+            }
+        },
+        "odoo": {
+            "command": "python",
+            "args": [
+                "mcp_servers/odoo_mcp.py"
+            ],
+            "env": {
+                "ODOO_URL": "https://ai-employee-business1.odoo.com",
+                "ODOO_DATABASE": "ai-employee-business1",
+                "ODOO_USERNAME": "humzusheikh4009@gmail.com",
+                "ODOO_API_KEY": "1d89242d471e342b14e29c5db77d313b0dda8dca",
+                "ODOO_DB_PASSWORD": "OdooApp@567.",
+                "VAULT_PATH": "AI_Employee_Vault"
+            }
+        }
+    },
+    "gmail_mcp": {
+        "command": "python",
+        "args": [
+            "-m",
+            "mcp_servers.gmail_mcp_server"
+        ],
+        "env": {
+            "GMAIL_DEV_MODE": "false",
+            "VAULT_PATH": "AI_Employee_Vault"
+        }
+    },
+    "linkedin_mcp": {
+        "command": "python",
+        "args": [
+            "-m",
+            "mcp_servers.linkedin_mcp"
+        ],
+        "env": {
+            "LINKEDIN_DEV_MODE": "false",
+            "LINKEDIN_DRY_RUN": "false",
+            "VAULT_PATH": "AI_Employee_Vault"
+        }
+    },
+    "whatsapp_mcp": {
+        "command": "python",
+        "args": [
+            "-m",
+            "mcp_servers.whatsapp_mcp_server"
+        ],
+        "env": {
+            "WHATSAPP_DEV_MODE": "false",
+            "WHATSAPP_DRY_RUN": "false",
+            "VAULT_PATH": "AI_Employee_Vault"
+        }
+    },
+    "browser_payment_mcp": {
+        "command": "python",
+        "args": [
+            "-m",
+            "mcp_servers.browser_payment_mcp_server"
+        ],
+        "env": {
+            "BROWSER_DEV_MODE": "false",
+            "BROWSER_DRY_RUN": "false",
+            "VAULT_PATH": "AI_Employee_Vault"
+        }
+    },
+    "calendar_mcp": {
+        "command": "python",
+        "args": [
+            "-m",
+            "mcp_servers.calendar_mcp_server"
+        ],
+        "env": {
+            "CALENDAR_DEV_MODE": "false",
+            "VAULT_PATH": "AI_Employee_Vault"
+        }
+    }
+}

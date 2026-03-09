@@ -1,0 +1,22 @@
+---
+type: email
+from: LinkedIn <jobs-listings@linkedin.com>
+to: Hamza Sheikh <humzusheikh4009@gmail.com>
+subject: Bringer Media is hiring a Social Media Manager
+received: 2026-02-25T03:08:35.688270
+priority: medium
+status: pending
+gmail_id: 1983a6b7e31ad8c4
+labels: ['UNREAD', 'CATEGORY_SOCIAL', 'INBOX']
+---
+## Email Content
+Posted on 7/23/2025 ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+## Body Preview
+Top job picks for you: https://www.linkedin.com/comm/jobs/collections/recommended?origin=JYMBII_EMAIL&lgCta=eml-jymbii-bottom-see-all-jobs&lgTemp=jobs_jymbii_digest&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BwP5hf7f5SCWdJ2RYuAkmQQ%3D%3D&midToken=AQGKHPZa1ODvJw&midSig=2F4GFqHfbwVbQ1&trk=eml-jobs_jymbii_digest-null-0-null&trkEmail=eml-jobs_jymbii_digest-null-0-null-null-l1oid7~mdgthsbj~gh-null-null&eid=l1oid7-mdgthsbj-gh&otpToken=MTMwNzE5ZTIxNDJmY2JjY2IxMjcwZmViNDExYmU0Yjc4ZGM4ZDc0NjkxYWQ4O...
+
+## Suggested Actions
+- [ ] Read full email
+- [ ] Reply to sender
+- [ ] Forward to relevant party
+- [ ] Archive after processing

@@ -1,0 +1,1033 @@
+2026-02-25 04:08:24,512 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-25 04:11:38,554 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-25 04:13:38,630 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-25 04:15:38,704 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-25 04:17:16,965 - INFO - Found 86 files in Needs_Action. Transferring to Done...
+2026-02-25 04:17:16,967 - ERROR - [ERROR] Error moving file EMAIL_194de65812e89f1b.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,968 - ERROR - [ERROR] Error moving file EMAIL_194e01d0164c682b.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,969 - ERROR - [ERROR] Error moving file EMAIL_194e0daf59d4d167.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,970 - ERROR - [ERROR] Error moving file EMAIL_194e0ee81b33ffb0.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,971 - ERROR - [ERROR] Error moving file EMAIL_194e0f8cd80f2888.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,972 - ERROR - [ERROR] Error moving file EMAIL_194e26703233e4e2.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,973 - ERROR - [ERROR] Error moving file EMAIL_194e5fb55c5b2c41.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,974 - ERROR - [ERROR] Error moving file EMAIL_194e65361f5187e4.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,975 - ERROR - [ERROR] Error moving file EMAIL_194e693c50e73e46.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,976 - ERROR - [ERROR] Error moving file EMAIL_194e8b23696b08ff.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,978 - ERROR - [ERROR] Error moving file EMAIL_194eb21a859cdb62.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,980 - ERROR - [ERROR] Error moving file EMAIL_194eb66a4f64d11b.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,982 - ERROR - [ERROR] Error moving file EMAIL_194ec933fcb90533.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,984 - ERROR - [ERROR] Error moving file EMAIL_194f06537272d32d.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,985 - ERROR - [ERROR] Error moving file EMAIL_194f06bd04e07420.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,986 - ERROR - [ERROR] Error moving file EMAIL_194f1739535d0a40.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,987 - ERROR - [ERROR] Error moving file EMAIL_194f174264b2f7a6.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,988 - ERROR - [ERROR] Error moving file EMAIL_194f4b6661b451a2.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,990 - ERROR - [ERROR] Error moving file EMAIL_194f56e686b45b42.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,992 - ERROR - [ERROR] Error moving file EMAIL_194f8254ec59c06f.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,993 - ERROR - [ERROR] Error moving file EMAIL_194fa94cc17b9ddb.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,995 - ERROR - [ERROR] Error moving file EMAIL_194faa253b2218b1.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,997 - ERROR - [ERROR] Error moving file EMAIL_194fac59bd282864.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:16,999 - ERROR - [ERROR] Error moving file EMAIL_194fb3360324133f.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,001 - ERROR - [ERROR] Error moving file EMAIL_194ffbb1e76a3522.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,003 - ERROR - [ERROR] Error moving file EMAIL_194ffe35a69b9a1a.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,005 - ERROR - [ERROR] Error moving file EMAIL_19502e0055da1b24.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,007 - ERROR - [ERROR] Error moving file EMAIL_1950429739ce45c2.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,009 - ERROR - [ERROR] Error moving file EMAIL_19504f850fc359bc.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,010 - ERROR - [ERROR] Error moving file EMAIL_19505057d1af85f4.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,011 - ERROR - [ERROR] Error moving file EMAIL_195090373c30eda1.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,013 - ERROR - [ERROR] Error moving file EMAIL_1950a07d3b649c0a.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,014 - ERROR - [ERROR] Error moving file EMAIL_1950cbee564ad1f6.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,015 - ERROR - [ERROR] Error moving file EMAIL_1950f2e2ec886d1f.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,016 - ERROR - [ERROR] Error moving file EMAIL_195146b3e2079a5f.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,017 - ERROR - [ERROR] Error moving file EMAIL_19514d97e457b06d.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,019 - ERROR - [ERROR] Error moving file EMAIL_19514e62e8a1c9e9.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,020 - ERROR - [ERROR] Error moving file EMAIL_19515a694013eecf.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,025 - ERROR - [ERROR] Error moving file EMAIL_19518c2ea13d8451.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,027 - ERROR - [ERROR] Error moving file EMAIL_195197af277431e4.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,030 - ERROR - [ERROR] Error moving file EMAIL_1951d8e2102afa49.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,031 - ERROR - [ERROR] Error moving file EMAIL_1951e22a8a8ee26e.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,032 - ERROR - [ERROR] Error moving file EMAIL_1951ea159a4fe03b.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,034 - ERROR - [ERROR] Error moving file EMAIL_1951f084b650a2ff.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,036 - ERROR - [ERROR] Error moving file EMAIL_19523c7bf32762b2.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,038 - ERROR - [ERROR] Error moving file EMAIL_19524a0b8ba05f73.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,039 - ERROR - [ERROR] Error moving file EMAIL_19526ec8a501c69f.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,040 - ERROR - [ERROR] Error moving file EMAIL_195275a3f8ff1080.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,041 - ERROR - [ERROR] Error moving file EMAIL_19527e2054927655.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,043 - ERROR - [ERROR] Error moving file EMAIL_1952905428ace949.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,044 - ERROR - [ERROR] Error moving file EMAIL_1952911c616ce23b.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,046 - ERROR - [ERROR] Error moving file EMAIL_1952d0459a0594fe.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,048 - ERROR - [ERROR] Error moving file EMAIL_1952e1458290620f.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,050 - ERROR - [ERROR] Error moving file EMAIL_1953240ec9dff119.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,051 - ERROR - [ERROR] Error moving file EMAIL_195333ab4abcb4ac.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,053 - ERROR - [ERROR] Error moving file EMAIL_19535fe443c12ea6.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,054 - ERROR - [ERROR] Error moving file EMAIL_1953712bf7505cfd.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,056 - ERROR - [ERROR] Error moving file EMAIL_195384cc06854103.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,057 - ERROR - [ERROR] Error moving file EMAIL_195387e8af22aa52.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,058 - ERROR - [ERROR] Error moving file EMAIL_19538de2bee17e76.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,059 - ERROR - [ERROR] Error moving file EMAIL_19539371d7e61e26.md: [WinError 2] The system cannot find the file specified
+2026-02-25 04:17:17,060 - INFO - [OK] Moved EMAIL_1953c75579d00178.md from Needs_Action to Done
+2026-02-25 04:17:17,061 - INFO - [OK] Moved EMAIL_1953d8768a24cc2b.md from Needs_Action to Done
+2026-02-25 04:17:17,063 - INFO - [OK] Moved EMAIL_19541b038ecbd96b.md from Needs_Action to Done
+2026-02-25 04:17:17,064 - INFO - [OK] Moved EMAIL_19542adcdb5ea72e.md from Needs_Action to Done
+2026-02-25 04:17:17,085 - INFO - [OK] Moved EMAIL_19542d8c2610a84b.md from Needs_Action to Done
+2026-02-25 04:17:17,085 - INFO - [OK] Moved EMAIL_1954339cca325b3d.md from Needs_Action to Done
+2026-02-25 04:17:17,086 - INFO - [OK] Moved EMAIL_19543fbced80bf31.md from Needs_Action to Done
+2026-02-25 04:17:17,100 - INFO - [OK] Moved EMAIL_19546bc7f127730e.md from Needs_Action to Done
+2026-02-25 04:17:17,116 - INFO - [OK] Moved EMAIL_19547d42dce3c520.md from Needs_Action to Done
+2026-02-25 04:17:17,116 - INFO - [OK] Moved EMAIL_19547de2d677c253.md from Needs_Action to Done
+2026-02-25 04:17:17,117 - INFO - [OK] Moved EMAIL_1954a8b101027367.md from Needs_Action to Done
+2026-02-25 04:17:17,131 - INFO - [OK] Moved EMAIL_1954c6e455ecc4d4.md from Needs_Action to Done
+2026-02-25 04:17:17,147 - INFO - [OK] Moved EMAIL_1954d13897fe3f9a.md from Needs_Action to Done
+2026-02-25 04:17:17,148 - INFO - [OK] Moved EMAIL_1954d1e3836cdc2f.md from Needs_Action to Done
+2026-02-25 04:17:17,149 - INFO - [OK] Moved EMAIL_1955220d8b622c96.md from Needs_Action to Done
+2026-02-25 04:17:17,150 - INFO - [OK] Moved EMAIL_19554d7c0267dda3.md from Needs_Action to Done
+2026-02-25 04:17:17,150 - INFO - [OK] Moved EMAIL_19557473890f1585.md from Needs_Action to Done
+2026-02-25 04:17:17,151 - INFO - [OK] Moved EMAIL_1955ad9da1d2a74b.md from Needs_Action to Done
+2026-02-25 04:17:17,152 - INFO - [OK] Moved EMAIL_1955c8a8031ec4a0.md from Needs_Action to Done
+2026-02-25 04:17:17,153 - INFO - [OK] Moved EMAIL_1955cff2aaa9f867.md from Needs_Action to Done
+2026-02-25 04:17:17,153 - INFO - [OK] Moved EMAIL_1956194a1f0dde12.md from Needs_Action to Done
+2026-02-25 04:17:17,154 - INFO - [OK] Moved EMAIL_19561b7b1eeb7444.md from Needs_Action to Done
+2026-02-25 04:17:17,155 - INFO - [OK] Moved EMAIL_19566d129259dc49.md from Needs_Action to Done
+2026-02-25 04:17:17,156 - INFO - [OK] Moved EMAIL_195670e0984073f5.md from Needs_Action to Done
+2026-02-25 04:17:17,157 - INFO - [OK] Moved EMAIL_19567b9c8ceb6736.md from Needs_Action to Done
+2026-02-25 04:17:17,270 - INFO - Successfully transferred 25 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=1137, Needs_Action=87, Pending_Approval=1, Approved=0, Rejected=0, Done=136
+
+Successfully transferred 25 files from Needs_Action to Done
+2026-02-25 04:20:58,535 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-25 04:25:05,485 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-25 04:36:26,619 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-25 05:16:03,030 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-26 23:53:22,369 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-26 23:55:22,797 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-26 23:57:22,923 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-26 23:59:23,071 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 00:01:23,353 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 00:03:30,847 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 00:05:25,106 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 00:07:25,347 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 00:09:25,673 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 01:24:23,476 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 01:24:44,623 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 02:37:26,728 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 02:37:47,188 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 02:45:06,809 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 02:45:27,452 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+_193f6d2ca281ace7.md from Needs_Action to Done
+2026-02-27 02:45:27,253 - INFO - [OK] Moved EMAIL_193f81fc8db6613c.md from Needs_Action to Done
+2026-02-27 02:45:27,254 - INFO - [OK] Moved EMAIL_193f85ec9b06fd6b.md from Needs_Action to Done
+2026-02-27 02:45:27,425 - INFO - Successfully transferred 4 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=4, Needs_Action=2, Pending_Approval=6, Approved=2, Rejected=0, Done=1544
+
+Successfully transferred 4 files from Needs_Action to Done
+2026-02-27 02:47:27,794 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+cified
+2026-02-27 02:47:27,563 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193f3f07f0abc327.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:47:27,565 - INFO - [OK] Moved PROCESS_EMAIL_193f3fb8376cca42.md.md from Needs_Action to Done
+2026-02-27 02:47:27,566 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193f4711379ce926.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:47:27,713 - INFO - Successfully transferred 1 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=10, Needs_Action=0, Pending_Approval=6, Approved=2, Rejected=0, Done=1559
+
+Successfully transferred 1 files from Needs_Action to Done
+2026-02-27 02:49:28,184 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+cified
+2026-02-27 02:49:28,136 - INFO - Successfully transferred 0 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=20, Needs_Action=0, Pending_Approval=7, Approved=2, Rejected=0, Done=1587
+
+No files were found in Needs_Action to transfer.
+2026-02-27 02:51:28,720 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+cified
+2026-02-27 02:51:28,499 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193d85e16bb89087.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:51:28,501 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193d941b63a260e0.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:51:28,502 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193d9dbcb4c60f02.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:51:28,504 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193d9dd80916d259.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:51:28,505 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193da30b0e93bb99.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:51:28,506 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193da37defcb54bb.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:51:28,507 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193da495828d8f35.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:51:28,508 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193dac0080f83ef1.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:51:28,703 - INFO - Successfully transferred 0 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=19, Needs_Action=2, Pending_Approval=11, Approved=2, Rejected=0, Done=1617
+
+No files were found in Needs_Action to transfer.
+2026-02-27 02:53:29,202 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+_193bdbe8dd591d28.md from Needs_Action to Done
+2026-02-27 02:53:28,964 - INFO - [OK] Moved EMAIL_193bfb8dd966c662.md from Needs_Action to Done
+2026-02-27 02:53:28,966 - INFO - [OK] Moved EMAIL_193c07c3d0e44003.md from Needs_Action to Done
+2026-02-27 02:53:29,138 - INFO - Successfully transferred 4 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=16, Needs_Action=0, Pending_Approval=7, Approved=2, Rejected=0, Done=1661
+
+Successfully transferred 4 files from Needs_Action to Done
+2026-02-27 02:55:29,768 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+Moved PROCESS_EMAIL_193bb6acb64de4d2.md.md from Needs_Action to Done
+2026-02-27 02:55:29,658 - INFO - Successfully transferred 2 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=15, Needs_Action=0, Pending_Approval=6, Approved=2, Rejected=0, Done=1692
+
+Successfully transferred 2 files from Needs_Action to Done
+2026-02-27 02:57:30,204 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+L_193acaac17fae593.md from Needs_Action to Done
+2026-02-27 02:57:30,059 - ERROR - [ERROR] Error moving file EMAIL_193ae4b7a83c1507.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:57:30,060 - INFO - [OK] Moved EMAIL_193b045c0fd91ff9.md from Needs_Action to Done
+2026-02-27 02:57:30,061 - INFO - [OK] Moved EMAIL_193b0ea8d4b50389.md from Needs_Action to Done
+2026-02-27 02:57:30,063 - INFO - [OK] Moved EMAIL_193b0f6fe341c511.md from Needs_Action to Done
+2026-02-27 02:57:30,064 - INFO - [OK] Moved EMAIL_193b0fdbeca3be93.md from Needs_Action to Done
+2026-02-27 02:57:30,066 - INFO - [OK] Moved EMAIL_193b15bb533537c9.md from Needs_Action to Done
+2026-02-27 02:57:30,067 - INFO - [OK] Moved EMAIL_193b16e849c066ff.md from Needs_Action to Done
+2026-02-27 02:57:30,070 - INFO - [OK] Moved EMAIL_193b18f27d38b8ae.md from Needs_Action to Done
+2026-02-27 02:57:30,072 - INFO - [OK] Moved EMAIL_193b1e8ec6c7a6b6.md from Needs_Action to Done
+2026-02-27 02:57:30,073 - INFO - [OK] Moved EMAIL_193b25ab4b4d6c92.md from Needs_Action to Done
+2026-02-27 02:57:30,074 - INFO - [OK] Moved EMAIL_193b2d8e6936a909.md from Needs_Action to Done
+2026-02-27 02:57:30,075 - INFO - [OK] Moved EMAIL_193b371d590c7e66.md from Needs_Action to Done
+2026-02-27 02:57:30,249 - INFO - Successfully transferred 13 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=4, Approved=2, Rejected=0, Done=1734
+
+Successfully transferred 13 files from Needs_Action to Done
+2026-02-27 02:58:11,075 - INFO - Found 10 files in Needs_Action. Transferring to Done...
+2026-02-27 02:58:11,077 - INFO - [OK] Moved PROCESS_EMAIL_193a6b1079e0776a.md.md from Needs_Action to Done
+2026-02-27 02:58:11,079 - INFO - [OK] Moved PROCESS_EMAIL_193a744bd95c1c54.md.md from Needs_Action to Done
+2026-02-27 02:58:11,080 - INFO - [OK] Moved PROCESS_EMAIL_193a7ff26a583c87.md.md from Needs_Action to Done
+2026-02-27 02:58:11,081 - INFO - [OK] Moved PROCESS_EMAIL_193a80d4b51f0bc0.md.md from Needs_Action to Done
+2026-02-27 02:58:11,083 - INFO - [OK] Moved PROCESS_EMAIL_193a9251b172bf57.md.md from Needs_Action to Done
+2026-02-27 02:58:11,086 - INFO - [OK] Moved PROCESS_EMAIL_193aa43b05e89ac1.md.md from Needs_Action to Done
+2026-02-27 02:58:11,088 - INFO - [OK] Moved PROCESS_EMAIL_193aa5724f39dbbd.md.md from Needs_Action to Done
+2026-02-27 02:58:11,089 - INFO - [OK] Moved PROCESS_EMAIL_193abd762f2ef9e7.md.md from Needs_Action to Done
+2026-02-27 02:58:11,091 - INFO - [OK] Moved PROCESS_EMAIL_193abe275e9e3a90.md.md from Needs_Action to Done
+2026-02-27 02:58:11,093 - INFO - [OK] Moved PROCESS_EMAIL_193ac328dfb5765f.md.md from Needs_Action to Done
+2026-02-27 02:58:11,218 - INFO - Successfully transferred 10 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=10, Needs_Action=0, Pending_Approval=4, Approved=2, Rejected=0, Done=1744
+
+Successfully transferred 10 files from Needs_Action to Done
+2026-02-27 02:58:31,383 - INFO - Found 1 files in Needs_Action. Transferring to Done...
+2026-02-27 02:58:31,398 - ERROR - [ERROR] Error moving file EMAIL_193ac328dfb5765f.md: [WinError 2] The system cannot find the file specified
+2026-02-27 02:58:31,508 - INFO - Successfully transferred 0 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=6, Approved=2, Rejected=0, Done=1762
+
+No files were found in Needs_Action to transfer.
+ac1.md from Needs_Action to Done
+2026-02-27 02:58:31,356 - INFO - [OK] Moved EMAIL_193aa5724f39dbbd.md from Needs_Action to Done
+2026-02-27 02:58:31,358 - INFO - [OK] Moved EMAIL_193abd762f2ef9e7.md from Needs_Action to Done
+2026-02-27 02:58:31,383 - INFO - [OK] Moved EMAIL_193abe275e9e3a90.md from Needs_Action to Done
+2026-02-27 02:58:31,397 - INFO - [OK] Moved EMAIL_193ac328dfb5765f.md from Needs_Action to Done
+2026-02-27 02:58:31,508 - INFO - Successfully transferred 5 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=6, Approved=2, Rejected=0, Done=1762
+
+Successfully transferred 5 files from Needs_Action to Done
+2026-02-27 02:59:30,478 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:00:31,918 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:01:31,103 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+nsferred 1 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=18, Needs_Action=3, Pending_Approval=7, Approved=2, Rejected=0, Done=1813
+
+Successfully transferred 1 files from Needs_Action to Done
+2026-02-27 03:02:32,404 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+_19388bb3c48ffcb7.md from Needs_Action to Done
+2026-02-27 03:02:32,354 - INFO - [OK] Moved EMAIL_1938a3ef9bd57f15.md from Needs_Action to Done
+2026-02-27 03:02:32,356 - INFO - [OK] Moved EMAIL_1938ad5d477db578.md from Needs_Action to Done
+2026-02-27 03:02:32,359 - INFO - [OK] Moved EMAIL_1938c3171340d3d2.md from Needs_Action to Done
+2026-02-27 03:02:32,361 - INFO - [OK] Moved EMAIL_1938c393adfc303f.md from Needs_Action to Done
+2026-02-27 03:02:32,364 - INFO - [OK] Moved EMAIL_1938c4184d7567c8.md from Needs_Action to Done
+2026-02-27 03:02:32,368 - INFO - [OK] Moved EMAIL_1938ca35f79d985d.md from Needs_Action to Done
+2026-02-27 03:02:32,372 - ERROR - [ERROR] Error moving file EMAIL_1938cf141769f3ea.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:02:32,542 - INFO - Successfully transferred 8 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=6, Approved=2, Rejected=0, Done=1849
+
+Successfully transferred 8 files from Needs_Action to Done
+2026-02-27 03:03:32,150 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:04:33,006 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:05:32,727 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+ecified
+2026-02-27 03:05:32,516 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193610c13604ffc4.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,517 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193622aa081c6fb5.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,518 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_19362c857765a9be.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,520 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_19363c9342a1785c.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,521 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_19363e6dacb9cdfd.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,522 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193644ffd1a41558.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,523 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_1936632797b7c423.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,524 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193671b57ee26692.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,525 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193677ff2aa9ac84.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,526 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_19367edcafe7264b.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,528 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193682cc347c786f.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:05:32,757 - INFO - Successfully transferred 0 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=16, Needs_Action=5, Pending_Approval=7, Approved=2, Rejected=0, Done=1890
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:06:20,062 - INFO - Found 6 files in Needs_Action. Transferring to Done...
+2026-02-27 03:06:20,063 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193545349070291a.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:06:20,064 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193546f157c612fb.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:06:20,065 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193549a4d5ab1aa5.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:06:20,065 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_193550ab5fed6faa.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:06:20,066 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_1935544e8661c17b.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:06:20,067 - ERROR - [ERROR] Error moving file PROCESS_EMAIL_19356bf615eeaf46.md.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:06:20,214 - INFO - Successfully transferred 0 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=10, Needs_Action=0, Pending_Approval=4, Approved=2, Rejected=0, Done=1920
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:06:40,617 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+L_1934fffe5e360576.md from Needs_Action to Done
+2026-02-27 03:06:40,550 - INFO - [OK] Moved EMAIL_193505b5a2829baf.md from Needs_Action to Done
+2026-02-27 03:06:40,552 - INFO - [OK] Moved EMAIL_1935198fe2ffe38b.md from Needs_Action to Done
+2026-02-27 03:06:40,554 - INFO - [OK] Moved EMAIL_193535c5d0324255.md from Needs_Action to Done
+2026-02-27 03:06:40,556 - INFO - [OK] Moved EMAIL_1935393718a43986.md from Needs_Action to Done
+2026-02-27 03:06:40,558 - INFO - [OK] Moved EMAIL_193542d7ac957be5.md from Needs_Action to Done
+2026-02-27 03:06:40,561 - INFO - [OK] Moved EMAIL_193544b4e23b1e96.md from Needs_Action to Done
+2026-02-27 03:06:40,563 - INFO - [OK] Moved EMAIL_193545349070291a.md from Needs_Action to Done
+2026-02-27 03:06:40,588 - INFO - [OK] Moved EMAIL_193546f157c612fb.md from Needs_Action to Done
+2026-02-27 03:06:40,591 - INFO - [OK] Moved EMAIL_193549a4d5ab1aa5.md from Needs_Action to Done
+2026-02-27 03:06:40,593 - INFO - [OK] Moved EMAIL_193550ab5fed6faa.md from Needs_Action to Done
+2026-02-27 03:06:40,596 - INFO - [OK] Moved EMAIL_1935544e8661c17b.md from Needs_Action to Done
+2026-02-27 03:06:40,599 - INFO - [OK] Moved EMAIL_19356bf615eeaf46.md from Needs_Action to Done
+2026-02-27 03:06:40,835 - INFO - Successfully transferred 14 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=5, Approved=2, Rejected=0, Done=1939
+
+Successfully transferred 14 files from Needs_Action to Done
+2026-02-27 03:07:33,008 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:07:33,290 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:08:41,095 - INFO - Found 4 files in Needs_Action. Transferring to Done...
+2026-02-27 03:08:41,097 - ERROR - [ERROR] Error moving file EMAIL_1933fd6ff16d0001.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:08:41,111 - INFO - [OK] Moved EMAIL_1934038d35887799.md from Needs_Action to Done
+2026-02-27 03:08:41,125 - INFO - [OK] Moved EMAIL_1934225eb36473d8.md from Needs_Action to Done
+2026-02-27 03:08:41,142 - INFO - [OK] Moved EMAIL_19344203bb60aff7.md from Needs_Action to Done
+2026-02-27 03:08:41,408 - INFO - Successfully transferred 3 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=5, Approved=2, Rejected=0, Done=1979
+
+Successfully transferred 3 files from Needs_Action to Done
+md from Needs_Action to Done
+2026-02-27 03:08:41,071 - INFO - [OK] Moved EMAIL_1933b52fec3fd791.md from Needs_Action to Done
+2026-02-27 03:08:41,072 - INFO - [OK] Moved EMAIL_1933cff92f2d60b7.md from Needs_Action to Done
+2026-02-27 03:08:41,075 - INFO - [OK] Moved EMAIL_1933d0b6cdf0c223.md from Needs_Action to Done
+2026-02-27 03:08:41,077 - INFO - [OK] Moved EMAIL_1933e1e21df89e41.md from Needs_Action to Done
+2026-02-27 03:08:41,080 - INFO - [OK] Moved EMAIL_1933fb1d935efefd.md from Needs_Action to Done
+2026-02-27 03:08:41,082 - INFO - [OK] Moved EMAIL_1933fb723469283e.md from Needs_Action to Done
+2026-02-27 03:08:41,095 - ERROR - [ERROR] Error moving file EMAIL_1933fc3e523eae91.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:08:41,096 - ERROR - [ERROR] Error moving file EMAIL_1933fd6ff16d0001.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:08:41,110 - INFO - [OK] Moved EMAIL_1934038d35887799.md from Needs_Action to Done
+2026-02-27 03:08:41,125 - INFO - [OK] Moved EMAIL_1934225eb36473d8.md from Needs_Action to Done
+2026-02-27 03:08:41,142 - INFO - [OK] Moved EMAIL_19344203bb60aff7.md from Needs_Action to Done
+2026-02-27 03:08:41,395 - INFO - Successfully transferred 16 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=5, Approved=2, Rejected=0, Done=1979
+
+Successfully transferred 16 files from Needs_Action to Done
+2026-02-27 03:09:33,818 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:10:41,564 - INFO - Found 1 files in Needs_Action. Transferring to Done...
+2026-02-27 03:10:41,567 - ERROR - [ERROR] Error moving file EMAIL_193254c333f3dd90.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:10:41,739 - INFO - Successfully transferred 0 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=4, Approved=2, Rejected=0, Done=2040
+
+No files were found in Needs_Action to transfer.
+IL_19321e61cab29e1f.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:10:41,561 - ERROR - [ERROR] Error moving file EMAIL_19322d39a33e1acb.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:10:41,562 - ERROR - [ERROR] Error moving file EMAIL_193233fc4c30ff99.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:10:41,564 - ERROR - [ERROR] Error moving file EMAIL_193234ba4f02e851.md: [WinError 2] The system cannot find the file specified
+2026-02-27 03:10:41,566 - INFO - [OK] Moved EMAIL_193254c333f3dd90.md from Needs_Action to Done
+2026-02-27 03:10:41,743 - INFO - Successfully transferred 1 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=4, Approved=2, Rejected=0, Done=2040
+
+Successfully transferred 1 files from Needs_Action to Done
+2026-02-27 03:12:42,219 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:14:42,513 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+L_19301a33cf89f414.md from Needs_Action to Done
+2026-02-27 03:14:42,487 - INFO - [OK] Moved EMAIL_19301e5b45670f52.md from Needs_Action to Done
+2026-02-27 03:14:42,488 - INFO - [OK] Moved EMAIL_19301e99d0a1ff69.md from Needs_Action to Done
+2026-02-27 03:14:42,490 - INFO - [OK] Moved EMAIL_193020dd0c806a05.md from Needs_Action to Done
+2026-02-27 03:14:42,492 - INFO - [OK] Moved EMAIL_1930254b213f659f.md from Needs_Action to Done
+2026-02-27 03:14:42,495 - INFO - [OK] Moved EMAIL_193045998c040fab.md from Needs_Action to Done
+2026-02-27 03:14:42,497 - INFO - [OK] Moved EMAIL_19306eb307ae01e7.md from Needs_Action to Done
+2026-02-27 03:14:42,500 - INFO - [OK] Moved EMAIL_19306f8b8f05d723.md from Needs_Action to Done
+2026-02-27 03:14:42,502 - INFO - [OK] Moved EMAIL_193070be7077cb7a.md from Needs_Action to Done
+2026-02-27 03:14:42,505 - INFO - [OK] Moved EMAIL_193074a0a86f9ed2.md from Needs_Action to Done
+2026-02-27 03:14:42,507 - INFO - [OK] Moved EMAIL_19307e9d6d0dbcf9.md from Needs_Action to Done
+2026-02-27 03:14:42,510 - INFO - [OK] Moved EMAIL_19308e75075a2c90.md from Needs_Action to Done
+2026-02-27 03:14:42,724 - INFO - Successfully transferred 13 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=5, Approved=2, Rejected=0, Done=2076
+
+Successfully transferred 13 files from Needs_Action to Done
+2026-02-27 03:16:43,029 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:18:43,491 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:20:44,144 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:22:44,597 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-02-27 03:24:45,129 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+L_192c6c47dad1a1c6.md from Needs_Action to Done
+2026-02-27 03:24:45,054 - INFO - [OK] Moved EMAIL_192c8ac4bd73733b.md from Needs_Action to Done
+2026-02-27 03:24:45,057 - INFO - [OK] Moved EMAIL_192c93fa056be3fd.md from Needs_Action to Done
+2026-02-27 03:24:45,061 - INFO - [OK] Moved EMAIL_192c98533e121ef5.md from Needs_Action to Done
+2026-02-27 03:24:45,065 - INFO - [OK] Moved EMAIL_192c9d652f09fba6.md from Needs_Action to Done
+2026-02-27 03:24:45,067 - INFO - [OK] Moved EMAIL_192cbeb06f7178fa.md from Needs_Action to Done
+2026-02-27 03:24:45,069 - INFO - [OK] Moved EMAIL_192ce894ad498f46.md from Needs_Action to Done
+2026-02-27 03:24:45,071 - INFO - [OK] Moved EMAIL_192cef4ff076989b.md from Needs_Action to Done
+2026-02-27 03:24:45,073 - INFO - [OK] Moved EMAIL_192d0e5e8f040b08.md from Needs_Action to Done
+2026-02-27 03:24:45,075 - INFO - [OK] Moved EMAIL_192d11197b99cbdb.md from Needs_Action to Done
+2026-02-27 03:24:45,077 - INFO - [OK] Moved EMAIL_192d22f85f34131a.md from Needs_Action to Done
+2026-02-27 03:24:45,333 - INFO - Successfully transferred 12 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=0, Needs_Action=0, Pending_Approval=8, Approved=2, Rejected=0, Done=2156
+
+Successfully transferred 12 files from Needs_Action to Done
+2026-02-27 03:26:45,769 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:39:22,054 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:39:43,375 - INFO - Found 2 files in Needs_Action. Transferring to Done...
+2026-03-01 04:39:43,377 - INFO - [OK] Moved EMAIL_1924a6ea6f988e7f.md from Needs_Action to Done
+2026-03-01 04:39:43,390 - INFO - [OK] Moved EMAIL_1924d203721e33a7.md from Needs_Action to Done
+2026-03-01 04:39:44,200 - INFO - Successfully transferred 2 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=108, Needs_Action=1, Pending_Approval=4, Approved=2, Rejected=0, Done=2196
+
+Successfully transferred 2 files from Needs_Action to Done
+ from Needs_Action to Done
+2026-03-01 04:39:43,203 - INFO - [OK] Moved EMAIL_19247be15ab3a56c.md from Needs_Action to Done
+2026-03-01 04:39:43,205 - INFO - [OK] Moved EMAIL_19247da5dada4b38.md from Needs_Action to Done
+2026-03-01 04:39:43,208 - INFO - [OK] Moved EMAIL_19248845f81564c5.md from Needs_Action to Done
+2026-03-01 04:39:43,211 - INFO - [OK] Moved EMAIL_19248a0f5d9a1b61.md from Needs_Action to Done
+2026-03-01 04:39:44,023 - INFO - Successfully transferred 10 files from Needs_Action to Done
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+Dashboard updated: Inbox=111, Needs_Action=0, Pending_Approval=4, Approved=2, Rejected=0, Done=2193
+
+Successfully transferred 10 files from Needs_Action to Done
+2026-03-01 04:41:47,793 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:43:48,201 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:45:48,685 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:47:49,102 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:49:49,609 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:51:49,752 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:53:50,020 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:55:50,521 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:57:50,644 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 04:59:50,901 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 05:01:51,122 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 05:03:51,342 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 05:05:51,622 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 05:07:51,864 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 05:09:52,064 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 05:11:52,471 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 05:13:52,673 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 05:15:53,196 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:09:02,551 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:09:23,440 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:11:23,578 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:13:23,790 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:15:23,920 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:17:24,330 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:19:24,240 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:21:24,667 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:23:24,843 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:25:24,992 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:27:25,333 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:29:25,400 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:31:25,461 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:33:25,924 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:35:26,063 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:37:26,212 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:39:26,450 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:41:26,618 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:43:26,925 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:45:27,049 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:47:27,438 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:49:27,782 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:51:27,703 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:53:27,963 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:55:28,246 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:57:28,522 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-01 23:59:28,702 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:01:28,929 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:03:28,928 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:05:29,414 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:07:29,355 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:09:29,588 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:11:29,852 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:13:30,070 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:15:30,297 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:17:30,444 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:19:33,017 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:21:30,926 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:23:31,224 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:25:31,515 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:27:31,822 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:29:32,117 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:31:32,552 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:33:32,618 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:35:33,138 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:37:33,526 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:39:33,432 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:41:33,682 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:43:33,863 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+2026-03-02 00:44:13,068 - INFO - No files found in Needs_Action to transfer.
+
+No files were found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+2026-03-02 00:44:29,937 - INFO - No files found in Needs_Action to transfer.
+
+No files were found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+2026-03-02 00:45:29,808 - INFO - No files found in Needs_Action to transfer.
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:45:34,132 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+2026-03-02 00:45:40,033 - INFO - No files found in Needs_Action to transfer.
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:47:34,232 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:49:34,769 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:51:34,664 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+2026-03-02 00:53:34,875 - INFO - No files found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+
+No files were found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+2026-03-02 00:53:38,655 - INFO - No files found in Needs_Action to transfer.
+
+No files were found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+2026-03-02 00:53:41,532 - INFO - No files found in Needs_Action to transfer.
+
+No files were found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+2026-03-02 00:53:43,670 - INFO - No files found in Needs_Action to transfer.
+
+No files were found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+2026-03-02 00:53:46,126 - INFO - No files found in Needs_Action to transfer.
+
+No files were found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+2026-03-02 00:53:48,227 - INFO - No files found in Needs_Action to transfer.
+
+No files were found in Needs_Action to transfer.
+Personal AI Employee - Auto Transfer System
+Transferring all files from Needs_Action to Done folder...
+2026-03-02 00:55:32,377 - INFO - No files found in Needs_Action to transfer.
+
+No files were found in Needs_Action to transfer.

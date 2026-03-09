@@ -1,0 +1,22 @@
+---
+type: email
+from: KuCoin <no-reply@kucoin.com>
+to: humzusheikh4009@gmail.com
+subject: [Explosive Launch!] "Events Hub" is Coming
+received: 2026-02-25T03:17:29.118818
+priority: medium
+status: pending
+gmail_id: 197f53d4f8e28b7c
+labels: ['UNREAD', 'CATEGORY_UPDATES', 'INBOX']
+---
+## Email Content
+Dear KuCoin Users 🔥 Attention! The most epic event extravaganza is now live! 🔥 Do these sound familiar? ❌ &quot;I joined an event last week, but now I can&#39;t find the entrance to check my progress?
+
+## Body Preview
+...
+
+## Suggested Actions
+- [ ] Read full email
+- [ ] Reply to sender
+- [ ] Forward to relevant party
+- [ ] Archive after processing

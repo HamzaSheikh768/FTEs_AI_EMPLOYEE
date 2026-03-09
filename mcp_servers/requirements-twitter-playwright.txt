@@ -1,0 +1,9 @@
+# Twitter/X MCP Server - Playwright Automation
+# Requirements for browser-based Twitter posting
+
+# Core dependencies
+playwright>=1.40.0
+python-dotenv>=1.0.0
+
+# Optional: For better async support
+anyio>=4.0.0

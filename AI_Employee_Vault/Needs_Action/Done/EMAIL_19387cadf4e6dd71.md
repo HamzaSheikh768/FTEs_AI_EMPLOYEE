@@ -1,0 +1,23 @@
+---
+type: email
+from: LinkedIn <notifications-noreply@linkedin.com>
+to: Hamza Sheikh <humzusheikh4009@gmail.com>
+subject: sufiyan khan and 1 other person viewed…
+received: 2026-02-27T03:02:15.697421
+priority: medium
+status: pending
+gmail_id: 19387cadf4e6dd71
+labels: ['UNREAD', 'CATEGORY_SOCIAL', 'INBOX']
+---
+## Email Content
+Here&#39;s what&#39;s happened since you were last on LinkedIn ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+## Body Preview
+sufiyan khan and 1 other person viewed your profile
+See all viewshttps://www.linkedin.com/comm/me/profile-views?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BfOPA71XnSeuNMXY4VPTRJQ%3D%3D&midToken=AQGKHPZa1ODvJw&midSig=1EA5lY1FN9MXw1&trk=eml-email_notification_digest_01-notification_digest-0-WVMP_V2&trkEmail=eml-email_notification_digest_01-notification_digest-0-WVMP_V2-null-l1oid7~m474s84j~3p-null-null&eid=l1oid7-m474s84j-3p&otpToken=MTMwNzE5ZTIxNDJmY2JjY2IxMjcwZmViNDExZGU0YjU4YWN...
+
+## Suggested Actions
+- [ ] Read full email
+- [ ] Reply to sender
+- [ ] Forward to relevant party
+- [ ] Archive after processing

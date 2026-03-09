@@ -1,0 +1,38 @@
+# Plan for EMAIL_198231b2cee24b77
+
+## Original Request:
+---
+type: email
+from: LinkedIn <notifications-noreply@linkedin.com>
+to: Hamza Sheikh <humzusheikh4009@gmail.com>
+subject: You have 1 new message
+received: 2026-02-25T03:10:49.525239
+priority: medium
+status: pending
+gmail_id: 198231b2cee24b77
+labels: ['UNREAD', 'CATEGORY_SOCIAL', 'INBOX']
+---
+## Email Content
+You have 1 new message ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+## Body Preview
+You have 1 new message
+
+View messages:https://www.linkedin.com/comm/messaging/?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BxntQ0JDoRgmKh9cJ6yvraA%3D%3D&midToken=AQGKHPZa1ODvJw&midSig=2F9ve1_R9FOXQ1&trk=eml-email_notification_digest_01-notification_card_MESSAGING-0-null&trkEmail=eml-email_notification_digest_01-notification_card_MESSAGING-0-null-null-l1oid7~mdacmb3f~w-null-null&eid=l1oid7-mdacmb3f-w&otpToken=MTMwNzE5ZTIxNDJmY2JjY2IxMjcwZmViNDExYmU1YmQ4Y2NiZDY0MjkxYTg4YjY4N2JjZjA5N...
+
+## Suggested Actions
+- [ ] Read full email
+- [ ] Reply to sender
+- [ ] Forward to relevant party
+- [ ] Archive after processing
+
+
+## Next Steps:
+1. Analyze the request
+2. Create specific tasks
+3. Determine if sensitive approval is needed
+4. Execute or route to appropriate handler
+
+
+## Execution Log
+Executed on 2026-03-09T23:23:35.523441

@@ -1,0 +1,38 @@
+# Plan for EMAIL_192d38c4c2e60758
+
+## Original Request:
+---
+type: email
+from: LinkedIn <notifications-noreply@linkedin.com>
+to: Hamza Sheikh <humzusheikh4009@gmail.com>
+subject: You have 1 new invitation
+received: 2026-02-27T03:21:43.036000
+priority: medium
+status: pending
+gmail_id: 192d38c4c2e60758
+labels: ['UNREAD', 'CATEGORY_SOCIAL', 'INBOX']
+---
+## Email Content
+You have 1 new invitation ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+## Body Preview
+You have 1 new invitation
+
+View invitations:https://www.linkedin.com/comm/mynetwork/?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BB5ijjLD4STuxsoPvTs8JCw%3D%3D&midToken=AQGKHPZa1ODvJw&midSig=0vNIpB3CpF_Hs1&trk=eml-email_notification_digest_01-notification_card_MY_NETWORK-0-null&trkEmail=eml-email_notification_digest_01-notification_card_MY_NETWORK-0-null-null-l1oid7~m2t4dfg2~j9-null-null&eid=l1oid7-m2t4dfg2-j9&otpToken=MTMwNzE5ZTIxNDJmY2JjY2IxMjcwZmViNDExZGU3YjU4ZGM4ZDA0MjkwYWY4YzY...
+
+## Suggested Actions
+- [ ] Read full email
+- [ ] Reply to sender
+- [ ] Forward to relevant party
+- [ ] Archive after processing
+
+
+## Next Steps:
+1. Analyze the request
+2. Create specific tasks
+3. Determine if sensitive approval is needed
+4. Execute or route to appropriate handler
+
+
+## Execution Log
+Executed on 2026-03-09T23:23:31.371997

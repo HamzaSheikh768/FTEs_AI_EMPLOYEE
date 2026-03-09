@@ -1,0 +1,9 @@
+{
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)"
+    ]
+  },
+  "$version": 3
+}

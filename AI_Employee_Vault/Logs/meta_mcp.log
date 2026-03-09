@@ -1,0 +1,27 @@
+2026-03-07 00:28:52,827 - __main__ - INFO - Meta Graph API client initialized
+2026-03-07 00:28:52,827 - __main__ - INFO - App ID configured: Yes
+2026-03-07 00:28:52,827 - __main__ - INFO - Page Access Token: No
+2026-03-07 00:28:52,827 - __main__ - INFO - Instagram Business Account: No
+2026-03-07 04:10:04,859 - __main__ - INFO - Meta Graph API client initialized
+2026-03-07 04:10:04,859 - __main__ - INFO - App ID configured: Yes
+2026-03-07 04:10:04,860 - __main__ - INFO - Page Access Token: Yes
+2026-03-07 04:10:04,860 - __main__ - INFO - Instagram Business Account: No
+2026-03-07 04:10:05,627 - __main__ - ERROR - Failed to get Page ID: 400
+2026-03-07 04:12:18,439 - __main__ - INFO - Meta Graph API client initialized
+2026-03-07 04:12:18,454 - __main__ - INFO - App ID configured: Yes
+2026-03-07 04:12:18,455 - __main__ - INFO - Page Access Token: Yes
+2026-03-07 04:12:18,455 - __main__ - INFO - Instagram Business Account: No
+2026-03-07 04:12:47,043 - __main__ - INFO - Meta Graph API client initialized
+2026-03-07 04:12:47,043 - __main__ - INFO - App ID configured: Yes
+2026-03-07 04:12:47,043 - __main__ - INFO - Page Access Token: Yes
+2026-03-07 04:12:47,043 - __main__ - INFO - Instagram Business Account: No
+2026-03-07 04:12:47,043 - __main__ - INFO - Posting to Facebook: Gold Tier Complete! AI Employee successfully integ...
+2026-03-07 04:12:47,984 - __main__ - ERROR - Facebook API error: 403 - {'error': {'message': '(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AbnEhYFRh88ty_87avoV6rU'}}
+2026-03-07 04:12:47,985 - __main__ - INFO - Facebook post result: {'error': 'Facebook API error: 403', 'details': '(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission'}
+2026-03-07 04:17:55,443 - __main__ - INFO - Meta Graph API client initialized
+2026-03-07 04:17:55,443 - __main__ - INFO - App ID configured: Yes
+2026-03-07 04:17:55,443 - __main__ - INFO - Page Access Token: Yes
+2026-03-07 04:17:55,443 - __main__ - INFO - Instagram Business Account: No
+2026-03-07 04:17:55,443 - __main__ - INFO - Posting to Facebook: Gold Tier Complete! AI Employee successfully integ...
+2026-03-07 04:17:56,486 - __main__ - ERROR - Facebook API error: 403 - {'error': {'message': '(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'ACY1VqGjQu6o9UfE807O9y9'}}
+2026-03-07 04:17:56,488 - __main__ - INFO - Facebook post result: {'error': 'Facebook API error: 403', 'details': '(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission'}

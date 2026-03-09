@@ -1,0 +1,32 @@
+2026-03-06 23:49:24,923 - __main__ - INFO - Twitter API v2 client initialized
+2026-03-06 23:49:24,923 - __main__ - INFO - API Key configured: Yes
+2026-03-06 23:49:24,924 - __main__ - INFO - Access Token configured: Yes
+2026-03-06 23:49:24,924 - __main__ - INFO - Getting user info...
+2026-03-06 23:58:46,517 - __main__ - INFO - Twitter API v2 client initialized
+2026-03-06 23:58:46,517 - __main__ - INFO - API Key configured: Yes
+2026-03-06 23:58:46,518 - __main__ - INFO - Access Token configured: Yes
+2026-03-06 23:58:46,518 - __main__ - INFO - Getting user info...
+2026-03-07 00:04:42,149 - __main__ - INFO - Twitter API v2 client initialized
+2026-03-07 00:04:42,150 - __main__ - INFO - API Key configured: Yes
+2026-03-07 00:04:42,151 - __main__ - INFO - Access Token configured: Yes
+2026-03-07 00:04:42,152 - __main__ - INFO - Getting user info...
+2026-03-07 00:11:54,945 - __main__ - INFO - Twitter API v2 client initialized
+2026-03-07 00:11:54,945 - __main__ - INFO - API Key configured: Yes
+2026-03-07 00:11:54,945 - __main__ - INFO - Access Token configured: Yes
+2026-03-07 00:11:54,946 - __main__ - INFO - Getting user info...
+2026-03-07 00:14:02,803 - __main__ - INFO - Bearer token generated successfully
+2026-03-07 00:14:02,804 - __main__ - INFO - Twitter API v2 client initialized
+2026-03-07 00:14:02,805 - __main__ - INFO - Bearer Token configured: Yes
+2026-03-07 00:14:02,805 - __main__ - INFO - Getting user info...
+2026-03-07 00:14:31,109 - __main__ - INFO - Bearer token generated successfully
+2026-03-07 00:14:31,109 - __main__ - INFO - Twitter API v2 client initialized
+2026-03-07 00:14:31,109 - __main__ - INFO - Bearer Token configured: Yes
+2026-03-07 00:14:31,110 - __main__ - INFO - Posting tweet: Gold Tier Complete! AI Employee successfully integ...
+2026-03-07 00:14:31,485 - __main__ - ERROR - Twitter API error: 403 - {'title': 'Unsupported Authentication', 'detail': 'Authenticating with OAuth 2.0 Application-Only is forbidden for this endpoint.  Supported authentication types are [OAuth 1.0a User Context, OAuth 2.0 User Context].', 'type': 'https://api.twitter.com/2/problems/unsupported-authentication', 'status': 403}
+2026-03-07 00:14:31,487 - __main__ - INFO - Tweet result: {'error': 'Twitter API error: 403', 'details': "{'title': 'Unsupported Authentication', 'detail': 'Authenticating with OAuth 2.0 Application-Only is forbidden for this endpoint.  Supported authentication types are [OAuth 1.0a User Context, OAuth 2.0 User Context].', 'type': 'https://api.twitter.com/2/problems/unsupported-authentication', 'status': 403}"}
+2026-03-07 00:18:48,946 - __main__ - INFO - Twitter API v2 client initialized
+2026-03-07 00:18:48,947 - __main__ - INFO - OAuth 1.0a configured: Yes
+2026-03-07 00:18:48,947 - __main__ - INFO - Access Token: ********************NcZ3G
+2026-03-07 00:18:48,947 - __main__ - INFO - Posting tweet: Gold Tier Complete! AI Employee successfully integ...
+2026-03-07 00:18:50,135 - __main__ - ERROR - Twitter API error: 401 - {'title': 'Unauthorized', 'type': 'about:blank', 'status': 401, 'detail': 'Unauthorized'}
+2026-03-07 00:18:50,136 - __main__ - INFO - Tweet result: {'error': 'Twitter API error: 401', 'details': "{'title': 'Unauthorized', 'type': 'about:blank', 'status': 401, 'detail': 'Unauthorized'}"}

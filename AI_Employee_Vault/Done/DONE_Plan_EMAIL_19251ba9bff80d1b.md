@@ -1,0 +1,37 @@
+# Plan for EMAIL_19251ba9bff80d1b
+
+## Original Request:
+---
+type: email
+from: Bitget <notification@promo.bitget.com>
+to: humzusheikh4009@gmail.com
+subject: CATI Airdrop: 20,000 CATI Awaits! Deposit and trade to win your share of the prize pool!
+received: 2026-02-27T16:25:15.033061
+priority: medium
+status: pending
+gmail_id: 19251ba9bff80d1b
+labels: ['CATEGORY_PROMOTIONS', 'UNREAD', 'INBOX']
+ai_employee_label_applied: true
+---
+## Email Content
+Dear Bitgetter, We&#39;re excited to launch a promotion for celebrating the listing of CATI on Bitget! Whether you&#39;re making your first deposit or trading, there&#39;s a chance to win a share of
+
+## Body Preview
+...
+
+## Suggested Actions
+- [ ] Read full email
+- [ ] Reply to sender
+- [ ] Forward to relevant party
+- [ ] Archive after processing
+
+
+## Next Steps:
+1. Analyze the request
+2. Create specific tasks
+3. Determine if sensitive approval is needed
+4. Execute or route to appropriate handler
+
+
+## Execution Log
+Executed on 2026-03-09T23:23:30.851231

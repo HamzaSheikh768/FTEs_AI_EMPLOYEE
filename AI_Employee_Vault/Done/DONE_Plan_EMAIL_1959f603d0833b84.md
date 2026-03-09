@@ -1,0 +1,38 @@
+# Plan for EMAIL_1959f603d0833b84
+
+## Original Request:
+---
+type: email
+from: LinkedIn <notifications-noreply@linkedin.com>
+to: Hamza Sheikh <humzusheikh4009@gmail.com>
+subject: Avoid this mistake in your next job…
+received: 2026-02-25T03:59:37.729605
+priority: medium
+status: pending
+gmail_id: 1959f603d0833b84
+labels: ['UNREAD', 'CATEGORY_SOCIAL', 'INBOX']
+---
+## Email Content
+Here&#39;s what&#39;s happened since you were last on LinkedIn ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+## Body Preview
+Avoid this mistake in your next job interview.
+
+See newsletter:https://www.linkedin.com/comm/feed/news/7207202?lipi=urn%3Ali%3Apage%3Aemail_email_notification_digest_01%3BHu9kWRePR4qTtzL7Stj7iQ%3D%3D&midToken=AQGKHPZa1ODvJw&midSig=2R8u5yRgB93bI1&trk=eml-email_notification_digest_01-notification_digest-0-EDITORIAL_BLAZE_INAPP&trkEmail=eml-email_notification_digest_01-notification_digest-0-EDITORIAL_BLAZE_INAPP-null-l1oid7~m8bqktlh~3a-null-null&eid=l1oid7-m8bqktlh-3a&otpToken=MTMwNzE5ZTIxNDJmY2JjY...
+
+## Suggested Actions
+- [ ] Read full email
+- [ ] Reply to sender
+- [ ] Forward to relevant party
+- [ ] Archive after processing
+
+
+## Next Steps:
+1. Analyze the request
+2. Create specific tasks
+3. Determine if sensitive approval is needed
+4. Execute or route to appropriate handler
+
+
+## Execution Log
+Executed on 2026-03-09T23:23:33.803445

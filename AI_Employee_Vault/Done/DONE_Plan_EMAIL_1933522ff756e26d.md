@@ -1,0 +1,36 @@
+# Plan for EMAIL_1933522ff756e26d
+
+## Original Request:
+---
+type: email
+from: Instagram <no-reply@mail.instagram.com>
+to: humzusheikh4009@gmail.com
+subject: We’re updating our Terms and Community Standards
+received: 2026-02-27T03:08:08.935440
+priority: medium
+status: pending
+gmail_id: 1933522ff756e26d
+labels: ['UNREAD', 'CATEGORY_SOCIAL', 'INBOX']
+---
+## Email Content
+The updated Terms will go into effect on January 1, 2025 and we&#39;ve made our standards easier to find. We&#39;re updating our Terms and Community Standards Hi hamza_sheikh_as_01, We&#39;re updating
+
+## Body Preview
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN"><html><head><title>Facebook</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style nonce="jLjueC7U">@media all and (max-width: 480px){*[class].ib_t{min-width:100% !important}*[class].ib_row{display:block !important}*[class].ib_ext{display:block !important;padding:10px 0 5px 0;vertical-align:top !important;width:100% !important}*[class].ib_img,*[class].ib_mid{vertical-align:top !important}*[class].mb_blk{d...
+
+## Suggested Actions
+- [ ] Read full email
+- [ ] Reply to sender
+- [ ] Forward to relevant party
+- [ ] Archive after processing
+
+
+## Next Steps:
+1. Analyze the request
+2. Create specific tasks
+3. Determine if sensitive approval is needed
+4. Execute or route to appropriate handler
+
+
+## Execution Log
+Executed on 2026-03-09T23:23:32.065339

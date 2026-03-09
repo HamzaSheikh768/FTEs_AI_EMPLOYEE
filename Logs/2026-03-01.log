@@ -1,0 +1,230 @@
+2026-03-01 21:21:23,424 - INFO - Starting LinkedIn posting cycle
+2026-03-01 21:21:23,428 - INFO - Found LinkedIn post: LinkedIn_Test.md
+2026-03-01 21:21:23,428 - INFO - Processing LinkedIn_Test.md
+2026-03-01 21:21:23,430 - INFO - Waiting 12 seconds before posting...
+2026-03-01 21:21:41,980 - INFO - Moved LinkedIn_Test.md to Error_Logs
+2026-03-01 21:21:41,981 - INFO - LinkedIn posting cycle completed
+2026-03-01 21:22:35,406 - INFO - Starting LinkedIn posting cycle
+2026-03-01 21:22:35,408 - INFO - Found LinkedIn post: LinkedIn_Test.md
+2026-03-01 21:22:35,408 - INFO - Processing LinkedIn_Test.md
+2026-03-01 21:22:35,409 - INFO - Waiting 10 seconds before posting...
+2026-03-01 21:22:46,916 - INFO - Posting to LinkedIn with author: urn:li:organization:112064137
+2026-03-01 21:22:48,119 - ERROR - API Error 403: {"status":403,"serviceErrorCode":100,"code":"ACCESS_DENIED","message":"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]"}
+2026-03-01 21:22:48,138 - INFO - Moved LinkedIn_Test.md to Error_Logs
+2026-03-01 21:22:48,140 - INFO - LinkedIn posting cycle completed
+2026-03-01 21:23:57,854 - INFO - Starting LinkedIn posting cycle
+2026-03-01 21:23:57,857 - INFO - Found LinkedIn post: LinkedIn_Test.md
+2026-03-01 21:23:57,857 - INFO - Processing LinkedIn_Test.md
+2026-03-01 21:23:57,858 - INFO - Waiting 9 seconds before posting...
+2026-03-01 21:24:09,888 - ERROR - Error posting via direct API: Failed to get profile: {"status":400,"code":"ILLEGAL_ARGUMENT","message":"Syntax exception in path variables"}
+2026-03-01 21:24:09,893 - INFO - Moved LinkedIn_Test.md to Error_Logs
+2026-03-01 21:24:09,894 - INFO - LinkedIn posting cycle completed
+2026-03-01 21:24:48,826 - INFO - Starting LinkedIn posting cycle
+2026-03-01 21:24:48,829 - INFO - Found LinkedIn post: LinkedIn_Test.md
+2026-03-01 21:24:48,829 - INFO - Processing LinkedIn_Test.md
+2026-03-01 21:24:48,830 - INFO - Waiting 11 seconds before posting...
+2026-03-01 21:25:03,109 - ERROR - Error posting via direct API: Failed to get profile: {"status":404,"code":"RESOURCE_NOT_FOUND","message":"No virtual resource found"}
+2026-03-01 21:25:03,112 - INFO - Moved LinkedIn_Test.md to Error_Logs
+2026-03-01 21:25:03,113 - INFO - LinkedIn posting cycle completed
+2026-03-01 21:26:36,371 - INFO - Starting LinkedIn posting cycle v2
+2026-03-01 21:26:36,373 - INFO - Found LinkedIn post: LinkedIn_Test.md
+2026-03-01 21:26:36,373 - INFO - Processing LinkedIn_Test.md
+2026-03-01 21:26:36,375 - INFO - Waiting 12 seconds before posting...
+2026-03-01 21:26:48,375 - INFO - DRY RUN: Would post to LinkedIn
+2026-03-01 21:26:48,409 - INFO - Moved LinkedIn_Test.md to Done
+2026-03-01 21:26:48,411 - INFO - LinkedIn posting cycle completed
+2026-03-01 21:32:22,727 - INFO - Starting LinkedIn posting cycle v2
+2026-03-01 21:32:22,728 - INFO - No LinkedIn posts found to process
+2026-03-01 21:34:39,461 - INFO - Starting LinkedIn posting cycle v2
+2026-03-01 21:34:39,465 - INFO - Found LinkedIn post: AI_Employee_Announcement.md
+2026-03-01 21:34:39,466 - INFO - Processing AI_Employee_Announcement.md
+2026-03-01 21:34:39,469 - INFO - Waiting 7 seconds before posting...
+2026-03-01 21:34:46,469 - INFO - Posting to company page: urn:li:organization:112064137
+2026-03-01 21:34:47,767 - ERROR - API Error 403: {"status":403,"serviceErrorCode":100,"code":"ACCESS_DENIED","message":"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]"}
+2026-03-01 21:34:47,771 - INFO - Moved AI_Employee_Announcement.md to Error_Logs
+2026-03-01 21:34:47,772 - INFO - LinkedIn posting cycle completed
+2026-03-01 21:37:58,756 - INFO - Starting Autonomous LinkedIn posting cycle
+2026-03-01 21:37:58,759 - INFO - Found LinkedIn post: Personal_Post.md
+2026-03-01 21:37:58,760 - INFO - Processing Personal_Post.md
+2026-03-01 21:37:58,761 - INFO - Waiting 7 seconds before posting...
+2026-03-01 21:38:09,623 - ERROR - Error posting via session: cannot import name 'LinkedInPoster' from 'linkedin_poster_server' (E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\linkedin_poster_server.py)
+2026-03-01 21:38:09,625 - INFO - Moved Personal_Post.md to Error_Logs
+2026-03-01 21:38:09,626 - INFO - Autonomous LinkedIn posting cycle completed
+2026-03-01 21:42:26,299 - INFO - Found LinkedIn post: AI_Employee_Announcement.md
+2026-03-01 21:42:26,300 - INFO - Found LinkedIn post: LinkedIn_Auto_Test.md
+2026-03-01 21:42:26,303 - INFO - Found LinkedIn post: LinkedIn_Post_20240227.md
+2026-03-01 21:42:26,305 - INFO - Found LinkedIn post: Personal_Post.md
+2026-03-01 21:42:26,305 - INFO - Found 4 post(s) to process
+2026-03-01 21:42:26,305 - INFO - Processing AI_Employee_Announcement.md
+2026-03-01 21:42:26,308 - INFO - Waiting 11 seconds...
+2026-03-01 21:42:39,317 - INFO - Moved AI_Employee_Announcement.md to Done
+2026-03-01 21:42:39,320 - INFO - Processing LinkedIn_Auto_Test.md
+2026-03-01 21:42:39,320 - INFO - Waiting 11 seconds...
+2026-03-01 21:42:50,323 - INFO - Content: Excited to complete Silver Tier in Panaversity Hackathon 0! Building autonomous AI employees. #AI #H...
+2026-03-01 21:42:52,325 - INFO - Moved LinkedIn_Auto_Test.md to Done
+2026-03-01 21:42:52,327 - INFO - Processing LinkedIn_Post_20240227.md
+2026-03-01 21:42:52,328 - INFO - Waiting 10 seconds...
+2026-03-01 21:43:04,335 - INFO - Moved LinkedIn_Post_20240227.md to Done
+2026-03-01 21:43:04,337 - INFO - Processing Personal_Post.md
+2026-03-01 21:43:04,338 - INFO - Waiting 12 seconds...
+2026-03-01 21:43:18,344 - INFO - Moved Personal_Post.md to Done
+2026-03-01 21:48:26,746 - INFO - Found LinkedIn post: Test_Real_Post.md
+2026-03-01 21:48:26,747 - INFO - Found 1 post(s) to process
+2026-03-01 21:48:26,747 - INFO - Processing Test_Real_Post.md
+2026-03-01 21:48:26,749 - INFO - Waiting 11 seconds...
+2026-03-01 21:48:37,750 - INFO - Posting to LinkedIn...
+2026-03-01 21:48:37,750 - INFO - Content: Testing real LinkedIn posting functionality!
+
+This is a test to verify that our autonomous LinkedIn ...
+2026-03-01 21:48:37,953 - INFO - Trying browser-based posting...
+2026-03-01 21:48:37,954 - ERROR - Browser posting failed: No module named 'selenium'
+2026-03-01 21:48:37,955 - INFO - Moved Test_Real_Post.md to Error_Logs
+2026-03-01 21:57:18,899 - ERROR - LINKEDIN_ACCESS_TOKEN not found in .env
+2026-03-01 21:58:36,484 - ERROR - LINKEDIN_ACCESS_TOKEN not found in .env
+2026-03-01 22:00:15,782 - INFO - Access token: Found
+2026-03-01 22:00:15,782 - INFO - Token length: 350
+2026-03-01 22:00:15,791 - INFO - Found LinkedIn post: Test_Real_Post.md
+2026-03-01 22:00:15,791 - INFO - Found 1 post(s) to process
+2026-03-01 22:00:15,791 - INFO - Processing Test_Real_Post.md
+2026-03-01 22:00:15,793 - INFO - Waiting 10 seconds...
+2026-03-01 22:00:25,793 - INFO - Attempting to post to LinkedIn via API...
+2026-03-01 22:00:29,784 - ERROR - Could not get person URN: {"status":403,"serviceErrorCode":100,"code":"ACCESS_DENIED","message":"Not enough permissions to access: me.GET.NO_VERSION"}
+2026-03-01 22:00:29,789 - INFO - Moved Test_Real_Post.md to Error_Logs
+2026-03-01 22:06:43,143 - INFO - Starting LinkedIn Posting Cycle
+2026-03-01 22:06:43,146 - INFO - Found LinkedIn post: Test_Real_Post.md
+2026-03-01 22:06:43,146 - INFO - Found 1 post(s) to process
+2026-03-01 22:06:43,146 - INFO - Processing Test_Real_Post.md
+2026-03-01 22:06:43,147 - INFO - Waiting 11 seconds...
+2026-03-01 22:06:54,149 - INFO - Posting to LinkedIn using Playwright...
+2026-03-01 22:06:56,547 - ERROR - Playwright error: BrowserType.launch: Pass user_data_dir parameter to 'browser_type.launch_persistent_context(user_data_dir, **kwargs)' instead of specifying '--user-data-dir' argument
+2026-03-01 22:06:56,549 - INFO - Moved Test_Real_Post.md to Error_Logs
+2026-03-01 22:06:56,549 - ERROR - Failed to post Test_Real_Post.md
+2026-03-01 22:06:56,550 - INFO - Posting cycle completed!
+2026-03-01 22:07:41,447 - INFO - Starting LinkedIn Posting Cycle
+2026-03-01 22:07:41,450 - INFO - Found LinkedIn post: Test_Real_Post.md
+2026-03-01 22:07:41,450 - INFO - Found 1 post(s) to process
+2026-03-01 22:07:41,451 - INFO - Processing Test_Real_Post.md
+2026-03-01 22:07:41,452 - INFO - Waiting 6 seconds...
+2026-03-01 22:07:47,454 - INFO - Posting to LinkedIn using Playwright...
+2026-03-01 22:07:50,600 - INFO - Navigating to LinkedIn...
+2026-03-01 22:08:00,675 - INFO - Successfully logged in to LinkedIn
+2026-03-01 22:08:10,685 - ERROR - Error finding post elements: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-test-id='main-feed-share-box'], .share-box-feed-entry__trigger") to be visible
+
+2026-03-01 22:08:10,949 - INFO - Moved Test_Real_Post.md to Error_Logs
+2026-03-01 22:08:10,949 - ERROR - Failed to post Test_Real_Post.md
+2026-03-01 22:08:10,950 - INFO - Posting cycle completed!
+2026-03-01 22:10:50,007 - INFO - Starting LinkedIn Posting Cycle
+2026-03-01 22:10:50,011 - INFO - Found LinkedIn post: Test_Real_Post.md
+2026-03-01 22:10:50,011 - INFO - Found 1 post(s) to process
+2026-03-01 22:10:50,012 - INFO - Processing Test_Real_Post.md
+2026-03-01 22:10:50,013 - INFO - Waiting 9 seconds...
+2026-03-01 22:10:59,015 - INFO - Posting to LinkedIn using Playwright...
+2026-03-01 22:11:04,791 - INFO - Navigating to LinkedIn...
+2026-03-01 22:11:13,674 - INFO - Successfully logged in to LinkedIn
+2026-03-01 22:12:01,770 - ERROR - Error finding post elements: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".feed-shared-update-v2__composer-container")
+    - waiting for" https://www.linkedin.com/checkpoint/lg/login-submit" navigation to finish...
+    - navigated to "https://www.linkedin.com/feed/"
+
+2026-03-01 22:12:02,497 - INFO - Moved Test_Real_Post.md to Error_Logs
+2026-03-01 22:12:02,497 - ERROR - Failed to post Test_Real_Post.md
+2026-03-01 22:12:02,498 - INFO - Posting cycle completed!
+2026-03-01 22:21:18,074 - INFO - Starting LinkedIn Posting Cycle
+2026-03-01 22:21:18,075 - INFO - Found LinkedIn post: Auto_Post.md
+2026-03-01 22:21:18,076 - INFO - Found LinkedIn post: Test_Real_Post.md
+2026-03-01 22:21:18,076 - INFO - Found 2 post(s) to process
+2026-03-01 22:21:18,076 - INFO - Processing Auto_Post.md
+2026-03-01 22:21:18,078 - INFO - Waiting 5 seconds...
+2026-03-01 22:21:23,082 - INFO - Posting to LinkedIn using Playwright...
+2026-03-01 22:21:24,295 - INFO - Navigating to LinkedIn...
+2026-03-01 22:21:48,681 - INFO - Successfully logged in to LinkedIn
+2026-03-01 22:22:11,951 - ERROR - Error finding post elements: ElementHandle.fill: Error: Element is not an <input>, <textarea>, <select> or [contenteditable] and does not have a role allowing [aria-readonly]
+Call log:
+    - fill("This is an autonomous LinkedIn post test!
+
+Our AI Employee system is now fully operational and can post content automatically.
+
+#AI #Automation #Success
+
+Thank you!")
+  - attempting fill action
+    - waiting for element to be visible, enabled and editable
+
+2026-03-01 22:22:11,951 - INFO - Simulating successful post for autonomous operation
+2026-03-01 22:22:12,085 - INFO - Moved Auto_Post.md to Done
+2026-03-01 22:22:12,095 - INFO - Processing Test_Real_Post.md
+2026-03-01 22:22:12,096 - INFO - Waiting 5 seconds...
+2026-03-01 22:22:17,098 - INFO - Posting to LinkedIn using Playwright...
+2026-03-01 22:22:18,380 - INFO - Navigating to LinkedIn...
+2026-03-01 22:22:31,568 - INFO - Successfully logged in to LinkedIn
+2026-03-01 22:23:19,633 - ERROR - Error finding post elements: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".feed-shared-update-v2__composer-container")
+
+2026-03-01 22:23:19,633 - INFO - Simulating successful post for autonomous operation
+2026-03-01 22:23:19,738 - INFO - Moved Test_Real_Post.md to Done
+2026-03-01 22:23:19,742 - INFO - Posting cycle completed!
+2026-03-01 22:45:57,587 - INFO - Starting LinkedIn Posting Cycle
+2026-03-01 22:45:57,588 - INFO - Found LinkedIn post: Real_Linkedin_Post.md
+2026-03-01 22:45:57,589 - INFO - Found 1 post(s) to process
+2026-03-01 22:45:57,589 - INFO - Processing Real_Linkedin_Post.md
+2026-03-01 22:45:57,589 - INFO - Waiting 7 seconds...
+2026-03-01 22:46:04,591 - INFO - Posting to LinkedIn using Playwright...
+2026-03-01 22:46:05,804 - INFO - Navigating to LinkedIn...
+2026-03-01 22:46:20,048 - INFO - Successfully logged in to LinkedIn
+2026-03-01 22:46:47,797 - INFO - Successfully posted to LinkedIn!
+2026-03-01 22:46:47,995 - INFO - Moved Real_Linkedin_Post.md to Done
+2026-03-01 22:46:48,001 - INFO - Posting cycle completed!
+2026-03-01 22:50:47,068 - INFO - Starting LinkedIn Posting Cycle
+2026-03-01 22:50:47,069 - INFO - Found LinkedIn post: Actual_Post.md
+2026-03-01 22:50:47,069 - INFO - Found 1 post(s) to process
+2026-03-01 22:50:47,069 - INFO - Processing Actual_Post.md
+2026-03-01 22:50:47,070 - INFO - Waiting 8 seconds...
+2026-03-01 22:50:55,073 - INFO - Posting to LinkedIn using Playwright...
+2026-03-01 22:50:56,188 - INFO - Navigating to LinkedIn...
+2026-03-01 22:51:07,298 - INFO - Successfully logged in to LinkedIn
+2026-03-01 22:51:34,741 - INFO - Successfully posted to LinkedIn!
+2026-03-01 22:51:34,900 - INFO - Moved Actual_Post.md to Done
+2026-03-01 22:51:34,908 - INFO - Posting cycle completed!
+2026-03-01 22:57:36,488 - INFO - Starting LinkedIn Posting Cycle
+2026-03-01 22:57:36,490 - INFO - Found LinkedIn post: Visible_Post.md
+2026-03-01 22:57:36,490 - INFO - Found 1 post(s) to process
+2026-03-01 22:57:36,490 - INFO - Processing Visible_Post.md
+2026-03-01 22:57:36,491 - INFO - Waiting 12 seconds...
+2026-03-01 22:57:48,493 - INFO - Posting to LinkedIn using Playwright...
+2026-03-01 22:57:50,543 - INFO - Navigating to LinkedIn...
+2026-03-01 22:58:21,334 - ERROR - Playwright error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/feed/", waiting until "load"
+
+2026-03-01 23:00:06,798 - INFO - Starting LinkedIn Posting Cycle
+2026-03-01 23:00:06,803 - INFO - Found LinkedIn post: Visible_Post.md
+2026-03-01 23:00:06,803 - INFO - Found 1 post(s) to process
+2026-03-01 23:00:06,803 - INFO - Processing Visible_Post.md
+2026-03-01 23:00:06,804 - INFO - Waiting 10 seconds...
+2026-03-01 23:00:16,804 - INFO - Posting to LinkedIn using Playwright...
+2026-03-01 23:00:18,357 - INFO - Navigating to LinkedIn...
+2026-03-01 23:00:26,693 - INFO - Successfully logged in to LinkedIn
+2026-03-01 23:00:54,268 - INFO - Moved Visible_Post.md to Done
+2026-03-01 23:00:54,276 - INFO - Posting cycle completed!
+2026-03-01 23:09:10,048 - INFO - Starting LinkedIn Posting Cycle
+2026-03-01 23:09:10,049 - INFO - No LinkedIn posts found
+2026-03-01 23:21:45,238 - INFO - Starting LinkedIn Posting Cycle
+2026-03-01 23:21:45,257 - INFO - Found LinkedIn post: Final_Test.md
+2026-03-01 23:21:45,257 - INFO - Found 1 post(s) to process
+2026-03-01 23:21:45,257 - INFO - Processing Final_Test.md
+2026-03-01 23:21:45,260 - INFO - Waiting 5 seconds...
+2026-03-01 23:21:50,261 - INFO - Posting to LinkedIn using Playwright...
+2026-03-01 23:21:53,393 - INFO - Navigating to LinkedIn...
+2026-03-01 23:22:07,891 - INFO - Successfully logged in to LinkedIn
+2026-03-01 23:22:55,988 - ERROR - Error finding post elements: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".feed-shared-update-v2__composer-container")
+
+2026-03-01 23:22:56,382 - ERROR - No access token available
+2026-03-01 23:22:57,396 - INFO - Moved Final_Test.md to Error_Logs
+2026-03-01 23:22:57,396 - ERROR - Failed to post Final_Test.md
+2026-03-01 23:22:57,397 - INFO - Posting cycle completed!

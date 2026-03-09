@@ -1,0 +1,48 @@
+services:
+  odoo:
+    image: personal-ai-employee/odoo:19.0
+    container_name: odoo-community-19
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - postgres
+    ports:
+      - "8069:8069"
+    environment:
+      - ODOO_SERVER_WIDE_MODULES=web,base,account,project,sale,purchase,hr,crm
+      - ODOO_DATABASE=ai_employee_business
+      - ODOO_DB_PASSWORD=OdooApp@567.
+      - ODOO_ADMIN_PASSWORD=OdooApp@567.
+      - HOST=postgres
+      - PORT=5432
+      - USER=odoo_admin
+      - PASSWORD=OdooApp@567.
+    volumes:
+      - odoo-web-data:/var/lib/odoo
+      - ./odoo-config:/etc/odoo
+      - ./odoo-addons:/mnt/extra-addons
+    restart: unless-stopped
+    networks:
+      - odoo-network
+
+  postgres:
+    image: postgres:15
+    container_name: odoo-postgres-15
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=odoo_admin
+      - POSTGRES_PASSWORD=OdooApp@567.
+    volumes:
+      - odoo-db-data:/var/lib/postgresql/data
+    restart: unless-stopped
+    networks:
+      - odoo-network
+
+volumes:
+  odoo-web-data:
+  odoo-db-data:
+
+networks:
+  odoo-network:
+    driver: bridge

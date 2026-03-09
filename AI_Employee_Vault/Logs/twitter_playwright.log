@@ -1,0 +1,409 @@
+2026-03-06 04:59:00,549 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 04:59:00,549 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 04:59:00,550 - __main__ - INFO - Initializing browser...
+2026-03-06 04:59:07,581 - __main__ - INFO - No existing session found. Creating new session...
+2026-03-06 04:59:08,136 - __main__ - INFO - Browser initialized successfully
+2026-03-06 04:59:08,137 - __main__ - INFO - Navigating to login page...
+2026-03-06 04:59:29,236 - __main__ - ERROR - Login failed: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"button\"]:has-text(\"Next\")") to be visible
+
+2026-03-06 04:59:29,239 - __main__ - INFO - Please login manually in the browser window...
+2026-03-06 04:59:59,589 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:00:00,414 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:00:12,607 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:00:12,607 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:00:12,608 - __main__ - INFO - Initializing browser...
+2026-03-06 05:00:15,123 - __main__ - INFO - Loading existing session...
+2026-03-06 05:00:15,851 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:00:16,251 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:00:16,253 - __main__ - INFO - Navigating to login page...
+2026-03-06 05:00:32,385 - __main__ - ERROR - Login failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("input[autocomplete=\"username\"]") to be visible
+
+2026-03-06 05:00:32,386 - __main__ - INFO - Please login manually in the browser window...
+2026-03-06 05:01:02,850 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:01:03,517 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:01:27,684 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:01:27,684 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:01:27,685 - __main__ - INFO - Initializing browser...
+2026-03-06 05:01:30,157 - __main__ - INFO - Loading existing session...
+2026-03-06 05:01:30,720 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:01:31,180 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:01:31,181 - __main__ - INFO - Navigating to login page...
+2026-03-06 05:01:52,549 - __main__ - ERROR - Login failed: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"button\"]:has-text(\"Next\")") to be visible
+
+2026-03-06 05:01:52,550 - __main__ - INFO - Please login manually in the browser window...
+2026-03-06 05:02:22,857 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:02:23,516 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:07:42,636 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:07:42,636 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:07:42,636 - __main__ - INFO - Initializing browser...
+2026-03-06 05:07:46,729 - __main__ - INFO - Loading existing session...
+2026-03-06 05:07:47,446 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:07:47,582 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:07:47,582 - __main__ - INFO - Navigating to login page...
+2026-03-06 05:08:07,839 - __main__ - ERROR - Login failed: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"button\"]:has-text(\"Next\")") to be visible
+
+2026-03-06 05:08:07,839 - __main__ - INFO - Please login manually in the browser window...
+2026-03-06 05:08:38,031 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:08:38,224 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:14:39,496 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:14:39,496 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:14:39,497 - __main__ - INFO - Initializing browser...
+2026-03-06 05:14:41,807 - __main__ - INFO - Loading existing session...
+2026-03-06 05:14:42,389 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:14:42,720 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:14:42,720 - __main__ - INFO - Navigating to login page...
+2026-03-06 05:14:57,319 - __main__ - INFO - Found username field with: input[type="text"]
+2026-03-06 05:15:00,642 - __main__ - INFO - Clicked Next button
+2026-03-06 05:15:08,664 - __main__ - WARNING - Password field not found: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("input[type=\"password\"]") to be visible
+
+2026-03-06 05:15:08,664 - __main__ - INFO - Twitter may have additional verification steps...
+2026-03-06 05:15:28,743 - __main__ - WARNING - Navigation timeout, but may still be logged in
+2026-03-06 05:15:29,088 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:15:29,089 - __main__ - INFO - Login process completed
+2026-03-06 05:15:29,973 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:16:08,982 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:16:08,982 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:16:08,982 - __main__ - INFO - Initializing browser...
+2026-03-06 05:16:11,183 - __main__ - INFO - Loading existing session...
+2026-03-06 05:16:11,780 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:16:12,213 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:16:12,214 - __main__ - INFO - Posting tweet: Gold Tier Test: AI Employee successfully posted vi...
+2026-03-06 05:16:12,214 - __main__ - INFO - Navigate to compose page (attempt 1/3)
+2026-03-06 05:16:37,067 - __main__ - ERROR - Attempt 1 failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("textarea[data-testid=\"tweetTextarea_0\"]") to be visible
+
+2026-03-06 05:16:37,067 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 05:16:39,079 - __main__ - INFO - Navigate to compose page (attempt 2/3)
+2026-03-06 05:17:02,559 - __main__ - ERROR - Attempt 2 failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("textarea[data-testid=\"tweetTextarea_0\"]") to be visible
+
+2026-03-06 05:17:02,560 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 05:17:04,567 - __main__ - INFO - Navigate to compose page (attempt 3/3)
+2026-03-06 05:17:28,046 - __main__ - ERROR - Attempt 3 failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("textarea[data-testid=\"tweetTextarea_0\"]") to be visible
+
+2026-03-06 05:17:28,047 - __main__ - ERROR - All retry attempts failed
+2026-03-06 05:17:28,668 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:24:42,601 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:24:42,601 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:24:42,602 - __main__ - INFO - Initializing browser...
+2026-03-06 05:24:44,972 - __main__ - INFO - Loading existing session...
+2026-03-06 05:24:45,488 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:24:45,928 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:24:45,929 - __main__ - INFO - Posting tweet: Gold Tier Complete! AI Employee successfully integ...
+2026-03-06 05:24:45,929 - __main__ - INFO - Navigate to compose page (attempt 1/3)
+2026-03-06 05:25:16,138 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 05:25:17,044 - __main__ - INFO - Screenshot saved to twitter_compose_debug.png
+2026-03-06 05:25:31,568 - __main__ - ERROR - Attempt 1 failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"]") to be visible
+
+2026-03-06 05:25:31,570 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 05:25:33,574 - __main__ - INFO - Navigate to compose page (attempt 2/3)
+2026-03-06 05:26:02,022 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 05:26:02,299 - __main__ - INFO - Screenshot saved to twitter_compose_debug.png
+2026-03-06 05:26:16,769 - __main__ - ERROR - Attempt 2 failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"]") to be visible
+
+2026-03-06 05:26:16,769 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 05:26:18,778 - __main__ - INFO - Navigate to compose page (attempt 3/3)
+2026-03-06 05:33:43,228 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:33:43,229 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:33:43,229 - __main__ - INFO - Initializing browser...
+2026-03-06 05:33:46,278 - __main__ - INFO - Loading existing session...
+2026-03-06 05:33:46,805 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:33:47,346 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:33:47,351 - __main__ - INFO - Navigating to login page...
+2026-03-06 05:34:10,296 - __main__ - INFO - Password field not found - may need manual completion
+2026-03-06 05:34:10,296 - __main__ - INFO - Waiting for successful login...
+2026-03-06 05:34:10,297 - __main__ - INFO - Please complete login in the browser if not already done...
+2026-03-06 05:34:15,330 - __main__ - INFO - Waiting for login... (5s)
+2026-03-06 05:34:20,373 - __main__ - INFO - Waiting for login... (10s)
+2026-03-06 05:34:25,405 - __main__ - INFO - Waiting for login... (15s)
+2026-03-06 05:34:30,428 - __main__ - INFO - Waiting for login... (20s)
+2026-03-06 05:34:35,493 - __main__ - INFO - Waiting for login... (25s)
+2026-03-06 05:34:40,515 - __main__ - INFO - Waiting for login... (30s)
+2026-03-06 05:34:45,530 - __main__ - INFO - Waiting for login... (35s)
+2026-03-06 05:34:50,580 - __main__ - INFO - Waiting for login... (40s)
+2026-03-06 05:34:55,602 - __main__ - INFO - Waiting for login... (45s)
+2026-03-06 05:35:00,978 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:35:01,703 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:35:06,639 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:35:06,640 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:35:06,640 - __main__ - INFO - Initializing browser...
+2026-03-06 05:35:09,407 - __main__ - INFO - Loading existing session...
+2026-03-06 05:35:09,983 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:35:10,399 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:35:10,402 - __main__ - INFO - Navigating to login page...
+2026-03-06 05:35:36,180 - __main__ - INFO - Password field not found - may need manual completion
+2026-03-06 05:35:36,182 - __main__ - INFO - Waiting for successful login...
+2026-03-06 05:35:36,183 - __main__ - INFO - Please complete login in the browser if not already done...
+2026-03-06 05:35:41,638 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:35:42,725 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:39:02,050 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:39:02,051 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:39:02,051 - __main__ - INFO - Initializing browser...
+2026-03-06 05:39:04,432 - __main__ - INFO - Loading existing session...
+2026-03-06 05:39:05,077 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:39:05,560 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:39:05,561 - __main__ - INFO - Navigating to login page...
+2026-03-06 05:39:29,221 - __main__ - INFO - Password field not found - may need manual completion
+2026-03-06 05:39:29,222 - __main__ - INFO - Waiting for successful login...
+2026-03-06 05:39:29,223 - __main__ - INFO - Please complete login in the browser if not already done...
+2026-03-06 05:39:34,752 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:39:35,795 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:40:11,748 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:40:11,748 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:40:11,749 - __main__ - INFO - Initializing browser...
+2026-03-06 05:40:13,732 - __main__ - INFO - Loading existing session...
+2026-03-06 05:40:14,284 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:40:14,588 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:40:14,589 - __main__ - INFO - Navigating to login page...
+2026-03-06 05:40:30,556 - __main__ - ERROR - Login error: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("input[type=\"text\"]") to be visible
+
+2026-03-06 05:40:30,556 - __main__ - INFO - Please complete login manually...
+2026-03-06 05:41:00,848 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:41:01,377 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:45:48,874 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:45:48,874 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:45:48,875 - __main__ - INFO - Initializing browser...
+2026-03-06 05:45:52,023 - __main__ - INFO - Loading existing session...
+2026-03-06 05:45:52,380 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:45:52,541 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:45:52,541 - __main__ - INFO - Posting tweet: Gold Tier Complete! AI Employee successfully integ...
+2026-03-06 05:45:52,541 - __main__ - INFO - Navigate to compose page (attempt 1/3)
+2026-03-06 05:46:26,110 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 05:46:26,440 - __main__ - INFO - Screenshot saved to twitter_compose_debug.png
+2026-03-06 05:46:41,231 - __main__ - ERROR - Attempt 1 failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"]") to be visible
+
+2026-03-06 05:46:41,232 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 05:46:43,248 - __main__ - INFO - Navigate to compose page (attempt 2/3)
+2026-03-06 05:47:13,282 - __main__ - ERROR - Attempt 2 failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://twitter.com/compose/tweet", waiting until "networkidle"
+
+2026-03-06 05:47:13,282 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 05:47:15,298 - __main__ - INFO - Navigate to compose page (attempt 3/3)
+2026-03-06 05:47:45,311 - __main__ - ERROR - Attempt 3 failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://twitter.com/compose/tweet", waiting until "networkidle"
+
+2026-03-06 05:47:45,311 - __main__ - ERROR - All retry attempts failed
+2026-03-06 05:47:45,468 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:49:02,491 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:49:02,491 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:49:02,491 - __main__ - INFO - Initializing browser...
+2026-03-06 05:49:04,841 - __main__ - INFO - Loading existing session...
+2026-03-06 05:49:05,400 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:49:05,844 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:49:05,845 - __main__ - INFO - Posting tweet: Gold Tier Test Tweet! #AIAutomation #GoldTier...
+2026-03-06 05:49:05,846 - __main__ - INFO - Navigate to compose page (attempt 1/3)
+2026-03-06 05:49:36,280 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 05:49:37,134 - __main__ - INFO - Screenshot saved to twitter_compose_debug.png
+2026-03-06 05:49:51,958 - __main__ - ERROR - Attempt 1 failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"]") to be visible
+
+2026-03-06 05:49:51,958 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 05:49:53,967 - __main__ - INFO - Navigate to compose page (attempt 2/3)
+2026-03-06 05:50:22,423 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 05:50:22,815 - __main__ - INFO - Screenshot saved to twitter_compose_debug.png
+2026-03-06 05:50:52,835 - __main__ - ERROR - Attempt 2 failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://twitter.com/home", waiting until "networkidle"
+
+2026-03-06 05:50:52,836 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 05:50:54,841 - __main__ - INFO - Navigate to compose page (attempt 3/3)
+2026-03-06 05:51:24,852 - __main__ - ERROR - Attempt 3 failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://twitter.com/compose/tweet", waiting until "networkidle"
+
+2026-03-06 05:51:24,852 - __main__ - ERROR - All retry attempts failed
+2026-03-06 05:51:25,463 - __main__ - INFO - Browser closed successfully
+2026-03-06 05:56:12,040 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 05:56:12,041 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 05:56:12,041 - __main__ - INFO - Initializing browser...
+2026-03-06 05:56:14,146 - __main__ - INFO - Loading existing session...
+2026-03-06 05:56:14,750 - __main__ - INFO - Session loaded successfully
+2026-03-06 05:56:15,112 - __main__ - INFO - Browser initialized successfully
+2026-03-06 05:56:15,113 - __main__ - INFO - Posting tweet: Gold Tier Final Test! AI Employee posting via Play...
+2026-03-06 05:56:15,114 - __main__ - INFO - Navigate to home page (attempt 1/3)
+2026-03-06 05:56:50,480 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 05:56:51,102 - __main__ - INFO - Screenshot saved to twitter_home_debug.png
+2026-03-06 05:56:56,108 - __main__ - ERROR - Could not find tweet button: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Tweet\")") to be visible
+
+2026-03-06 05:56:56,109 - __main__ - ERROR - Attempt 1 failed: Tweet box not found
+2026-03-06 05:56:56,109 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 05:56:58,119 - __main__ - INFO - Navigate to home page (attempt 2/3)
+2026-03-06 05:57:31,141 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 05:57:31,406 - __main__ - INFO - Screenshot saved to twitter_home_debug.png
+2026-03-06 05:57:36,420 - __main__ - ERROR - Could not find tweet button: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Tweet\")") to be visible
+
+2026-03-06 05:57:36,420 - __main__ - ERROR - Attempt 2 failed: Tweet box not found
+2026-03-06 05:57:36,420 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 05:57:38,433 - __main__ - INFO - Navigate to home page (attempt 3/3)
+2026-03-06 05:58:11,068 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 05:58:13,804 - __main__ - INFO - Screenshot saved to twitter_home_debug.png
+2026-03-06 05:58:18,827 - __main__ - ERROR - Could not find tweet button: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Tweet\")") to be visible
+
+2026-03-06 05:58:18,827 - __main__ - ERROR - Attempt 3 failed: Tweet box not found
+2026-03-06 05:58:18,827 - __main__ - ERROR - All retry attempts failed
+2026-03-06 05:58:19,561 - __main__ - INFO - Browser closed successfully
+2026-03-06 06:08:20,695 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 06:08:20,696 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 06:08:20,696 - __main__ - INFO - Initializing browser...
+2026-03-06 06:08:23,294 - __main__ - INFO - Loading existing session...
+2026-03-06 06:08:23,840 - __main__ - INFO - Session loaded successfully
+2026-03-06 06:08:24,160 - __main__ - INFO - Browser initialized successfully
+2026-03-06 06:08:24,160 - __main__ - INFO - Posting tweet: Gold Tier Complete! AI Employee integrated with Od...
+2026-03-06 06:08:24,161 - __main__ - INFO - Navigate to home page (attempt 1/3)
+2026-03-06 06:08:59,216 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 06:08:59,981 - __main__ - INFO - Screenshot saved to twitter_home_debug.png
+2026-03-06 06:09:04,988 - __main__ - ERROR - Could not find tweet button: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Tweet\")") to be visible
+
+2026-03-06 06:09:04,988 - __main__ - ERROR - Attempt 1 failed: Tweet box not found
+2026-03-06 06:09:04,989 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 06:09:06,998 - __main__ - INFO - Navigate to home page (attempt 2/3)
+2026-03-06 06:09:41,362 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 06:09:41,726 - __main__ - INFO - Screenshot saved to twitter_home_debug.png
+2026-03-06 06:09:46,739 - __main__ - ERROR - Could not find tweet button: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Tweet\")") to be visible
+
+2026-03-06 06:09:46,741 - __main__ - ERROR - Attempt 2 failed: Tweet box not found
+2026-03-06 06:09:46,744 - __main__ - INFO - Retrying in 2 seconds...
+2026-03-06 06:09:48,748 - __main__ - INFO - Navigate to home page (attempt 3/3)
+2026-03-06 06:10:22,205 - __main__ - WARNING - Tweet box not found. Taking screenshot...
+2026-03-06 06:10:22,400 - __main__ - INFO - Screenshot saved to twitter_home_debug.png
+2026-03-06 06:10:27,414 - __main__ - ERROR - Could not find tweet button: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Tweet\")") to be visible
+
+2026-03-06 06:10:27,414 - __main__ - ERROR - Attempt 3 failed: Tweet box not found
+2026-03-06 06:10:27,414 - __main__ - ERROR - All retry attempts failed
+2026-03-06 06:10:28,002 - __main__ - INFO - Browser closed successfully
+2026-03-06 19:58:17,072 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 19:58:17,073 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 19:58:17,073 - __main__ - INFO - Initializing browser...
+2026-03-06 19:58:21,179 - __main__ - INFO - Loading existing session...
+2026-03-06 19:58:22,155 - __main__ - INFO - Session loaded successfully
+2026-03-06 19:58:22,613 - __main__ - INFO - Browser initialized successfully
+2026-03-06 19:58:22,613 - __main__ - INFO - Navigating to Twitter login page...
+2026-03-06 19:58:35,696 - __main__ - INFO - Screenshot saved: twitter_login_start.png
+2026-03-06 19:58:35,697 - __main__ - INFO - Looking for username field...
+2026-03-06 19:58:47,188 - __main__ - INFO - Found username field with selector: input[name="text"]
+2026-03-06 19:58:47,256 - __main__ - INFO - Entered username: humzusheikh4009@gmail.com
+2026-03-06 19:58:48,272 - __main__ - INFO - Clicking Next...
+2026-03-06 19:58:48,623 - __main__ - INFO - Clicked Next button
+2026-03-06 19:58:51,636 - __main__ - INFO - Looking for password field...
+2026-03-06 19:58:56,645 - __main__ - WARNING - Password field not found: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("input[type=\"password\"]") to be visible
+
+2026-03-06 19:58:56,645 - __main__ - INFO - Twitter may have additional verification steps...
+2026-03-06 19:58:56,646 - __main__ - INFO - Waiting for successful login...
+2026-03-06 19:59:26,805 - __main__ - INFO - Waiting for login... (30s)
+2026-03-06 19:59:56,987 - __main__ - INFO - Waiting for login... (60s)
+2026-03-06 20:00:27,170 - __main__ - INFO - Waiting for login... (90s)
+2026-03-06 20:00:57,369 - __main__ - INFO - Waiting for login... (120s)
+2026-03-06 20:00:57,663 - __main__ - INFO - Screenshot saved: twitter_login_result.png
+2026-03-06 20:00:58,017 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 20:00:58,546 - __main__ - INFO - Browser closed successfully
+2026-03-06 20:04:40,932 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 20:04:40,932 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 20:04:40,932 - __main__ - INFO - Initializing browser...
+2026-03-06 20:04:43,284 - __main__ - INFO - Loading existing session...
+2026-03-06 20:04:43,801 - __main__ - INFO - Session loaded successfully
+2026-03-06 20:04:44,168 - __main__ - INFO - Browser initialized successfully
+2026-03-06 20:04:44,169 - __main__ - INFO - Navigating to Twitter login page...
+2026-03-06 20:04:58,093 - __main__ - INFO - Screenshot saved: twitter_login_start.png
+2026-03-06 20:04:58,093 - __main__ - INFO - Looking for username field...
+2026-03-06 20:05:04,058 - __main__ - INFO - Clicking Next...
+2026-03-06 20:05:04,838 - __main__ - INFO - Waiting for password field to appear...
+2026-03-06 20:05:47,915 - __main__ - INFO - Twitter may have additional verification steps...
+2026-03-06 20:05:48,162 - __main__ - INFO - Waiting for successful login...
+2026-03-06 20:06:18,305 - __main__ - INFO - Waiting for login... (30s)
+2026-03-06 20:06:48,480 - __main__ - INFO - Waiting for login... (60s)
+2026-03-06 20:07:18,631 - __main__ - INFO - Waiting for login... (90s)
+2026-03-06 20:07:48,702 - __main__ - INFO - Waiting for login... (120s)
+2026-03-06 20:07:48,709 - __main__ - ERROR - Login failed with error: Page.screenshot: Target page, context or browser has been closed
+2026-03-06 20:07:49,196 - __main__ - INFO - Browser closed successfully
+2026-03-06 20:17:31,692 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 20:17:31,693 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 20:17:31,693 - __main__ - INFO - Initializing browser...
+2026-03-06 20:17:33,587 - __main__ - INFO - Loading existing session...
+2026-03-06 20:17:34,032 - __main__ - INFO - Session loaded successfully
+2026-03-06 20:17:34,395 - __main__ - INFO - Browser initialized successfully
+2026-03-06 20:17:34,395 - __main__ - INFO - Navigating to Twitter login page...
+2026-03-06 20:17:48,122 - __main__ - INFO - Screenshot saved: twitter_login_start.png
+2026-03-06 20:17:48,123 - __main__ - INFO - Looking for username field...
+2026-03-06 20:17:48,164 - __main__ - INFO - [OK] Found username field with selector: input[autocomplete="username"]
+2026-03-06 20:17:52,703 - __main__ - INFO - [OK] Entered username: humzusheikh4009@gmail.com
+2026-03-06 20:17:53,715 - __main__ - INFO - Clicking Next...
+2026-03-06 20:17:54,581 - __main__ - INFO - [OK] Clicked Next button
+2026-03-06 20:17:54,582 - __main__ - INFO - Waiting for password field to appear...
+2026-03-06 20:17:59,831 - __main__ - INFO - Screenshot saved: twitter_after_username.png
+2026-03-06 20:17:59,832 - __main__ - INFO - Trying selector: input[type="password"]
+2026-03-06 20:18:14,849 - __main__ - INFO - Trying selector: input[autocomplete="current-password"]
+2026-03-06 20:18:29,874 - __main__ - INFO - Trying selector: input[name="password"]
+2026-03-06 20:18:44,885 - __main__ - INFO - Trying selector: input[aria-label="Password"]
+2026-03-06 20:18:59,895 - __main__ - INFO - Trying selector: input[placeholder="Password"]
+2026-03-06 20:19:14,917 - __main__ - WARNING - [ERROR] Password field not found after waiting
+2026-03-06 20:19:14,917 - __main__ - INFO - Taking screenshot for debugging...
+2026-03-06 20:19:15,077 - __main__ - INFO - Screenshot saved: twitter_no_password_final.png
+2026-03-06 20:19:15,077 - __main__ - INFO - Waiting for successful login...
+2026-03-06 20:19:45,260 - __main__ - INFO - Waiting for login... (30s)
+2026-03-06 20:20:15,432 - __main__ - INFO - Waiting for login... (60s)
+2026-03-06 20:20:45,641 - __main__ - INFO - Waiting for login... (90s)
+2026-03-06 20:21:15,853 - __main__ - INFO - Waiting for login... (120s)
+2026-03-06 20:21:16,065 - __main__ - INFO - Screenshot saved: twitter_login_result.png
+2026-03-06 20:21:16,262 - __main__ - INFO - Session saved to: AI_Employee_Vault\twitter_session.json
+2026-03-06 20:21:16,262 - __main__ - INFO - [OK] Session saved successfully!
+2026-03-06 20:21:16,689 - __main__ - INFO - Browser closed successfully
+2026-03-06 20:49:11,641 - __main__ - INFO - Twitter Playwright client initialized
+2026-03-06 20:49:11,641 - __main__ - INFO - Storage state path: AI_Employee_Vault\twitter_session.json
+2026-03-06 20:49:11,641 - __main__ - INFO - Initializing browser...
+2026-03-06 20:49:13,840 - __main__ - INFO - Loading existing session...
+2026-03-06 20:49:14,514 - __main__ - INFO - Session loaded successfully
+2026-03-06 20:49:15,068 - __main__ - INFO - Browser initialized successfully
+2026-03-06 20:49:15,069 - __main__ - INFO - Navigating to Twitter login page...
+2026-03-06 20:49:30,568 - __main__ - INFO - Screenshot saved: twitter_initial.png
+2026-03-06 20:49:30,595 - __main__ - INFO - Looking for username field...
+2026-03-06 20:49:34,627 - __main__ - INFO - Clicked Sign in button
+2026-03-06 20:49:42,376 - __main__ - INFO - [OK] Entered username (approach 1)
+2026-03-06 20:49:44,761 - __main__ - INFO - [OK] Clicked Next button
+2026-03-06 20:49:44,762 - __main__ - INFO - Waiting for password field...
+2026-03-06 20:49:52,985 - __main__ - INFO - Found 0 password field(s)
+2026-03-06 20:49:52,985 - __main__ - INFO - Waiting for successful login...
+2026-03-06 20:50:23,180 - __main__ - INFO - Waiting... (30s)
+2026-03-06 20:50:53,326 - __main__ - INFO - Waiting... (60s)
+2026-03-06 20:51:23,496 - __main__ - INFO - Waiting... (90s)
+2026-03-06 20:51:53,669 - __main__ - INFO - Waiting... (120s)
+2026-03-06 20:51:53,678 - __main__ - ERROR - Login failed: Page.screenshot: Target page, context or browser has been closed
+2026-03-06 20:51:54,175 - __main__ - INFO - Browser closed successfully

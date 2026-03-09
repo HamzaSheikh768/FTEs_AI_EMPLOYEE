@@ -1,0 +1,132 @@
+2026-03-02 02:17:51,555 - INFO - LinkedIn Poster initialized
+2026-03-02 02:17:51,555 - INFO - Organization URN: urn:li:organization:...
+2026-03-02 02:17:51,556 - INFO - Headless mode: True
+2026-03-02 02:17:51,556 - INFO - Dry run: False
+2026-03-02 02:17:51,556 - INFO - Running in DRY RUN mode
+2026-03-02 02:17:51,556 - INFO - Running single processing cycle...
+2026-03-02 02:17:51,556 - INFO - ============================================================
+2026-03-02 02:17:51,556 - INFO - Starting LinkedIn Post Processing Cycle
+2026-03-02 02:17:51,557 - INFO - Scanning AI_Employee_Vault\Needs_Action for LinkedIn posts...
+2026-03-02 02:17:51,559 - INFO - Found LinkedIn post: LINKEDIN_TEST_2026-03-02.md
+2026-03-02 02:17:51,560 - INFO - Found 1 LinkedIn post(s) to process
+2026-03-02 02:17:51,560 - INFO - ------------------------------------------------------------
+2026-03-02 02:17:51,560 - INFO - Processing: LINKEDIN_TEST_2026-03-02.md
+2026-03-02 02:17:51,560 - INFO - Content preview: 🚀 Excited to announce our new AI-powered automation platform!
+
+We've just completed the Silver Tier ...
+2026-03-02 02:17:51,560 - INFO - Hashtags: ['AIAutomation', 'DigitalTransformation', 'PersonalAI', 'Productivity', 'Innovation']
+2026-03-02 02:17:51,560 - INFO - Waiting 5.1s before posting...
+2026-03-02 02:17:56,704 - INFO - Posting to LinkedIn via MCP...
+2026-03-02 02:17:56,705 - INFO - DRY RUN: Would post to LinkedIn
+2026-03-02 02:17:56,705 - INFO - Content: 🚀 Excited to announce our new AI-powered automation platform!
+
+We've just completed the Silver Tier of our Personal AI Employee system. This autonomous digital worker can now:
+
+✅ Monitor Gmail and pro...
+2026-03-02 02:17:56,706 - INFO - ✅ Successfully posted: LINKEDIN_TEST_2026-03-02.md
+2026-03-02 02:17:56,710 - INFO - Moved LINKEDIN_TEST_2026-03-02.md to Done
+2026-03-02 02:17:56,712 - INFO - ============================================================
+2026-03-02 02:17:56,712 - INFO - LinkedIn Post Processing Complete
+2026-03-02 02:17:56,713 - INFO - Successful: 1
+2026-03-02 02:17:56,713 - INFO - Failed: 0
+2026-03-02 02:17:56,714 - INFO - Total: 1
+2026-03-02 02:17:56,715 - INFO - Cycle complete: 1 successful, 0 failed
+2026-03-02 02:21:27,961 - INFO - LinkedIn Poster initialized
+2026-03-02 02:21:27,961 - INFO - Organization URN: urn:li:organization:...
+2026-03-02 02:21:27,961 - INFO - Headless mode: True
+2026-03-02 02:21:27,961 - INFO - Dry run: False
+2026-03-02 02:21:27,961 - INFO - Running single processing cycle...
+2026-03-02 02:21:27,961 - INFO - ============================================================
+2026-03-02 02:21:27,961 - INFO - Starting LinkedIn Post Processing Cycle
+2026-03-02 02:21:27,962 - INFO - Scanning AI_Employee_Vault\Needs_Action for LinkedIn posts...
+2026-03-02 02:21:27,964 - INFO - Found LinkedIn post: LINKEDIN_AUTO_TEST_2026-03-02.md
+2026-03-02 02:21:27,964 - INFO - Found 1 LinkedIn post(s) to process
+2026-03-02 02:21:27,964 - INFO - ------------------------------------------------------------
+2026-03-02 02:21:27,964 - INFO - Processing: LINKEDIN_AUTO_TEST_2026-03-02.md
+2026-03-02 02:21:27,964 - INFO - Content preview: 🎯 Automate Your Business with AI!
+
+Our Personal AI Employee is revolutionizing how businesses operat...
+2026-03-02 02:21:27,965 - INFO - Hashtags: ['AI', 'Automation', 'Business', 'Productivity', 'Innovation', 'DigitalTransformation', 'TechStartup', 'Entrepreneurship']
+2026-03-02 02:21:27,965 - INFO - Waiting 9.4s before posting...
+2026-03-02 02:21:37,318 - INFO - Posting to LinkedIn via MCP...
+2026-03-02 02:21:37,475 - ERROR - MCP posting failed: Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 159, in _get_module_details
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1090, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "E:\Hackathon 0\Bronze\Personal-AI-Employee\mcp_servers\linkedin_mcp.py", line 16
+    from 
+         ^
+SyntaxError: invalid syntax
+
+2026-03-02 02:21:37,475 - ERROR - ❌ Failed to post: LINKEDIN_AUTO_TEST_2026-03-02.md
+2026-03-02 02:21:37,476 - ERROR - Moved LINKEDIN_AUTO_TEST_2026-03-02.md to Error_Logs
+2026-03-02 02:21:37,477 - INFO - ============================================================
+2026-03-02 02:21:37,477 - INFO - LinkedIn Post Processing Complete
+2026-03-02 02:21:37,477 - INFO - Successful: 0
+2026-03-02 02:21:37,477 - INFO - Failed: 1
+2026-03-02 02:21:37,477 - INFO - Total: 1
+2026-03-02 02:21:37,478 - INFO - Cycle complete: 0 successful, 1 failed
+2026-03-02 02:22:34,530 - INFO - LinkedIn Poster initialized
+2026-03-02 02:22:34,530 - INFO - Organization URN: urn:li:organization:...
+2026-03-02 02:22:34,531 - INFO - Headless mode: True
+2026-03-02 02:22:34,531 - INFO - Dry run: False
+2026-03-02 02:22:34,531 - INFO - Running single processing cycle...
+2026-03-02 02:22:34,531 - INFO - ============================================================
+2026-03-02 02:22:34,531 - INFO - Starting LinkedIn Post Processing Cycle
+2026-03-02 02:22:34,532 - INFO - Scanning AI_Employee_Vault\Needs_Action for LinkedIn posts...
+2026-03-02 02:22:34,533 - INFO - Found LinkedIn post: LINKEDIN_FULL_AUTO_TEST.md
+2026-03-02 02:22:34,533 - INFO - Found 1 LinkedIn post(s) to process
+2026-03-02 02:22:34,534 - INFO - ------------------------------------------------------------
+2026-03-02 02:22:34,534 - INFO - Processing: LINKEDIN_FULL_AUTO_TEST.md
+2026-03-02 02:22:34,534 - INFO - Content preview: 🚀 Full Automatic Test - LinkedIn Company Page Posting
+
+This is an automated test of our Personal AI ...
+2026-03-02 02:22:34,534 - INFO - Hashtags: ['Automation', 'AI', 'Testing', 'LinkedIn', 'BusinessAutomation']
+2026-03-02 02:22:34,534 - INFO - Waiting 5.5s before posting...
+2026-03-02 02:22:40,001 - INFO - Posting to LinkedIn via MCP...
+2026-03-02 02:22:42,113 - INFO - Successfully posted to LinkedIn via MCP
+2026-03-02 02:22:42,114 - INFO - ✅ Successfully posted: LINKEDIN_FULL_AUTO_TEST.md
+2026-03-02 02:22:42,117 - INFO - Moved LINKEDIN_FULL_AUTO_TEST.md to Done
+2026-03-02 02:22:42,117 - INFO - ============================================================
+2026-03-02 02:22:42,118 - INFO - LinkedIn Post Processing Complete
+2026-03-02 02:22:42,118 - INFO - Successful: 1
+2026-03-02 02:22:42,118 - INFO - Failed: 0
+2026-03-02 02:22:42,118 - INFO - Total: 1
+2026-03-02 02:22:42,118 - INFO - Cycle complete: 1 successful, 0 failed
+2026-03-02 02:31:03,211 - INFO - LinkedIn Poster initialized
+2026-03-02 02:31:03,211 - INFO - Organization URN: urn:li:organization:...
+2026-03-02 02:31:03,211 - INFO - Headless mode: True
+2026-03-02 02:31:03,211 - INFO - Dry run: False
+2026-03-02 02:31:03,212 - INFO - Running single processing cycle...
+2026-03-02 02:31:03,212 - INFO - ============================================================
+2026-03-02 02:31:03,212 - INFO - Starting LinkedIn Post Processing Cycle
+2026-03-02 02:31:03,212 - INFO - Scanning AI_Employee_Vault\Needs_Action for LinkedIn posts...
+2026-03-02 02:31:03,214 - INFO - Found LinkedIn post: LINKEDIN_AUTO_TEST_2026-03-02.md
+2026-03-02 02:31:03,214 - INFO - Found 1 LinkedIn post(s) to process
+2026-03-02 02:31:03,214 - INFO - ------------------------------------------------------------
+2026-03-02 02:31:03,214 - INFO - Processing: LINKEDIN_AUTO_TEST_2026-03-02.md
+2026-03-02 02:31:03,214 - INFO - Content preview: 🎯 Automate Your Business with AI!
+
+Our Personal AI Employee is revolutionizing how businesses operat...
+2026-03-02 02:31:03,214 - INFO - Hashtags: ['AI', 'Automation', 'Business', 'Productivity', 'Innovation', 'DigitalTransformation', 'TechStartup', 'Entrepreneurship']
+2026-03-02 02:31:03,214 - INFO - Waiting 8.5s before posting...
+2026-03-02 02:31:11,745 - INFO - Posting to LinkedIn via MCP...
+2026-03-02 02:31:13,411 - INFO - Successfully posted to LinkedIn via MCP
+2026-03-02 02:31:13,411 - INFO - ✅ Successfully posted: LINKEDIN_AUTO_TEST_2026-03-02.md
+2026-03-02 02:31:13,413 - INFO - Moved LINKEDIN_AUTO_TEST_2026-03-02.md to Done
+2026-03-02 02:31:13,413 - INFO - ============================================================
+2026-03-02 02:31:13,413 - INFO - LinkedIn Post Processing Complete
+2026-03-02 02:31:13,413 - INFO - Successful: 1
+2026-03-02 02:31:13,413 - INFO - Failed: 0
+2026-03-02 02:31:13,413 - INFO - Total: 1
+2026-03-02 02:31:13,414 - INFO - Cycle complete: 1 successful, 0 failed
+2026-03-02 02:32:49,466 - INFO - LinkedIn Poster initialized
+2026-03-02 02:32:49,466 - INFO - Organization URN: urn:li:organization:...
+2026-03-02 02:32:49,466 - INFO - Headless mode: True
+2026-03-02 02:32:49,466 - INFO - Dry run: False
+2026-03-02 02:33:13,667 - INFO - LinkedIn Poster initialized
+2026-03-02 02:33:13,667 - INFO - Organization URN: urn:li:organization:...
+2026-03-02 02:33:13,667 - INFO - Headless mode: True
+2026-03-02 02:33:13,667 - INFO - Dry run: False
