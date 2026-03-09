@@ -1,0 +1,11 @@
+{
+  "name": "cloud_sync_agent",
+  "status": "idle",
+  "capabilities": [
+    "file_sync",
+    "backup",
+    "cloud_integration"
+  ],
+  "last_heartbeat": "2026-03-10T01:00:08.231228",
+  "timestamp": "2026-03-10T01:00:08.231620"
+}

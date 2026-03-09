@@ -1,0 +1,10 @@
+{
+  "name": "demo_sender",
+  "status": "idle",
+  "capabilities": [
+    "demo",
+    "testing"
+  ],
+  "last_heartbeat": "2026-03-10T00:35:06.566625",
+  "timestamp": "2026-03-10T00:35:06.567427"
+}

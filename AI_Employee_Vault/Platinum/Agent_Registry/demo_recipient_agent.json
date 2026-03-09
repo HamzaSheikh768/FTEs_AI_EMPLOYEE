@@ -1,0 +1,10 @@
+{
+  "name": "demo_recipient",
+  "status": "idle",
+  "capabilities": [
+    "demo",
+    "processing"
+  ],
+  "last_heartbeat": "2026-03-10T00:35:06.568183",
+  "timestamp": "2026-03-10T00:35:06.569017"
+}

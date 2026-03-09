@@ -2,3 +2,15 @@ usage: calendar_impl.py [-h] [--vault-path VAULT_PATH] [--create-event]
                         [--query QUERY] [--upcoming UPCOMING] [--today]
                         [--schedule] [--dry-run]
 calendar_impl.py: error: unrecognized arguments: --headless
+usage: calendar_impl.py [-h] [--vault-path VAULT_PATH] [--create-event]
+                        [--query QUERY] [--upcoming UPCOMING] [--today]
+                        [--schedule] [--dry-run]
+calendar_impl.py: error: unrecognized arguments: --headless
+usage: calendar_impl.py [-h] [--vault-path VAULT_PATH] [--create-event]
+                        [--query QUERY] [--upcoming UPCOMING] [--today]
+                        [--schedule] [--dry-run]
+calendar_impl.py: error: unrecognized arguments: --headless
+usage: calendar_impl.py [-h] [--vault-path VAULT_PATH] [--create-event]
+                        [--query QUERY] [--upcoming UPCOMING] [--today]
+                        [--schedule] [--dry-run]
+calendar_impl.py: error: unrecognized arguments: --headless

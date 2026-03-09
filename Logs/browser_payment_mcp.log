@@ -1,0 +1,18 @@
+python-dotenv could not parse statement starting at line 2
+python-dotenv could not parse statement starting at line 23
+python-dotenv could not parse statement starting at line 56
+python-dotenv could not parse statement starting at line 79
+python-dotenv could not parse statement starting at line 99
+python-dotenv could not parse statement starting at line 108
+python-dotenv could not parse statement starting at line 116
+python-dotenv could not parse statement starting at line 124
+python-dotenv could not parse statement starting at line 131
+[03/09/26 23:23:37] INFO     Starting MCP server 'Browser      transport.py:183
+                             Payment MCP Server' with                          
+                             transport 'stdio'                                 
+[03/10/26 00:52:29] INFO     Starting MCP server 'Browser      transport.py:183
+                             Payment MCP Server' with                          
+                             transport 'stdio'                                 
+[03/10/26 01:00:38] INFO     Starting MCP server 'Browser      transport.py:183
+                             Payment MCP Server' with                          
+                             transport 'stdio'                                 

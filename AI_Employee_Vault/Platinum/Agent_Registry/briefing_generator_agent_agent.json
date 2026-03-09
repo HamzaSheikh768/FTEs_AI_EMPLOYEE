@@ -1,0 +1,11 @@
+{
+  "name": "briefing_generator_agent",
+  "status": "idle",
+  "capabilities": [
+    "reporting",
+    "analytics",
+    "business_intelligence"
+  ],
+  "last_heartbeat": "2026-03-10T01:00:08.232112",
+  "timestamp": "2026-03-10T01:00:08.232490"
+}

@@ -1,0 +1,1 @@
+{"id": "alert_large_3dd8b28a-c3c7-43ea-8e7e-305c3b5b2c4f", "type": "large_transaction", "severity": "warning", "message": "Large transaction detected: 2500.00 USD", "timestamp": "2026-03-10T00:35:06.716138", "transaction_id": "3dd8b28a-c3c7-43ea-8e7e-305c3b5b2c4f", "account_id": "demo_account", "amount": "2500.00"}

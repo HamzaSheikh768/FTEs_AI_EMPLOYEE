@@ -1,0 +1,11 @@
+{
+  "name": "scheduler_agent",
+  "status": "idle",
+  "capabilities": [
+    "task_scheduling",
+    "cron_jobs",
+    "time_management"
+  ],
+  "last_heartbeat": "2026-03-10T01:00:08.232934",
+  "timestamp": "2026-03-10T01:00:08.233265"
+}

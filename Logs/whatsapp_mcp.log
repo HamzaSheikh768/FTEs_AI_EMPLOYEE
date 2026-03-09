@@ -1,0 +1,40 @@
+python-dotenv could not parse statement starting at line 2
+python-dotenv could not parse statement starting at line 23
+python-dotenv could not parse statement starting at line 56
+python-dotenv could not parse statement starting at line 79
+python-dotenv could not parse statement starting at line 99
+python-dotenv could not parse statement starting at line 108
+python-dotenv could not parse statement starting at line 116
+python-dotenv could not parse statement starting at line 124
+python-dotenv could not parse statement starting at line 131
+INFO:     Started server process [2848]
+INFO:     Waiting for application startup.
+[03/09/26 23:23:16] INFO     StreamableHTTP      streamable_http_manager.py:116
+                             session manager                                   
+                             started                                           
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Started server process [17360]
+INFO:     Waiting for application startup.
+[03/10/26 00:36:47] INFO     StreamableHTTP      streamable_http_manager.py:116
+                             session manager                                   
+                             started                                           
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started server process [23232]
+INFO:     Waiting for application startup.
+[03/10/26 00:52:15] INFO     StreamableHTTP      streamable_http_manager.py:116
+                             session manager                                   
+                             started                                           
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Started server process [16116]
+INFO:     Waiting for application startup.
+[03/10/26 01:00:24] INFO     StreamableHTTP      streamable_http_manager.py:116
+                             session manager                                   
+                             started                                           
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Shutting down

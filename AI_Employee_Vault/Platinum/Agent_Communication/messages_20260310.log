@@ -1,0 +1,4 @@
+{"timestamp": "2026-03-10T00:34:09.933519", "message_id": "test_msg_1", "sender": "test_sender", "recipient": "test_recipient", "type": "status_update", "priority": 5, "action": "sent"}
+{"timestamp": "2026-03-10T00:35:06.569848", "message_id": "demo_msg_1", "sender": "demo_sender", "recipient": "demo_recipient", "type": "status_update", "priority": 5, "action": "sent"}
+{"timestamp": "2026-03-10T00:35:07.836225", "message_id": "demo_workflow_task_0_20260310_003507", "sender": "workflow_coordinator", "recipient": "briefing_generator_agent", "type": "task_assignment", "priority": 5, "action": "sent"}
+{"timestamp": "2026-03-10T00:35:07.837048", "message_id": "demo_workflow_task_1_20260310_003507", "sender": "workflow_coordinator", "recipient": "cloud_sync_agent", "type": "task_assignment", "priority": 5, "action": "sent"}

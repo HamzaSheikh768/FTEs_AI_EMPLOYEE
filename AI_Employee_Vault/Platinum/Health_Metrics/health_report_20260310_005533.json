@@ -1,0 +1,107 @@
+{
+  "summary": {
+    "timestamp": "2026-03-10T00:55:32.059337",
+    "total_metrics_collected": 3,
+    "total_alerts_generated": 3,
+    "average_cpu_percent": 50.33,
+    "average_memory_percent": 80.5,
+    "average_disk_percent": 89.7,
+    "current_cpu_percent": 50.2,
+    "current_memory_percent": 80.6,
+    "current_disk_percent": 89.7,
+    "current_process_count": 319
+  },
+  "trends": {
+    "cpu_trend": "stable",
+    "memory_trend": "stable",
+    "disk_trend": "stable"
+  },
+  "top_processes": [
+    {
+      "pid": 19576,
+      "name": "Code.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 13.117653464987114
+    },
+    {
+      "pid": 3400,
+      "name": "MemCompression",
+      "cpu_percent": 0.0,
+      "memory_percent": 7.174211347878172
+    },
+    {
+      "pid": 21008,
+      "name": "claude.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 6.112123522222626
+    },
+    {
+      "pid": 6444,
+      "name": "Code.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 2.4024878692174587
+    },
+    {
+      "pid": 23204,
+      "name": "Code.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 2.263501167701262
+    },
+    {
+      "pid": 27532,
+      "name": "chrome.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 2.1677375636790455
+    },
+    {
+      "pid": 16276,
+      "name": "explorer.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.6998342227223775
+    },
+    {
+      "pid": 30728,
+      "name": "chrome.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.653077770114108
+    },
+    {
+      "pid": 8464,
+      "name": "chrome.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.539840999019857
+    },
+    {
+      "pid": 8200,
+      "name": "WhatsApp.Root.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.3871322951077552
+    }
+  ],
+  "recent_alerts": [
+    {
+      "type": "network_activity",
+      "severity": "info",
+      "message": "High network activity detected: 1091670710 sent, 3279094145 received",
+      "value": "1091670710/3279094145",
+      "threshold": "1GB",
+      "timestamp": "2026-03-10T00:52:32.040775"
+    },
+    {
+      "type": "network_activity",
+      "severity": "info",
+      "message": "High network activity detected: 1091737386 sent, 3279146263 received",
+      "value": "1091737386/3279146263",
+      "threshold": "1GB",
+      "timestamp": "2026-03-10T00:53:33.116177"
+    },
+    {
+      "type": "network_activity",
+      "severity": "info",
+      "message": "High network activity detected: 1092384989 sent, 3279542409 received",
+      "value": "1092384989/3279542409",
+      "threshold": "1GB",
+      "timestamp": "2026-03-10T00:54:34.176620"
+    }
+  ]
+}

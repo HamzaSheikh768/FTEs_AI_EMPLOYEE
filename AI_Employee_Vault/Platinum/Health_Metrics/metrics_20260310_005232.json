@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-03-10T00:52:32.040775",
+  "cpu_percent": 71.5,
+  "cpu_count": 12,
+  "memory_percent": 79.7,
+  "memory_available": 3440721920,
+  "memory_total": 16924876800,
+  "disk_percent": 89.7,
+  "disk_total": 208591122432,
+  "disk_used": 187109793792,
+  "process_count": 322,
+  "boot_time": 1772314466.8853078,
+  "network_io": {
+    "bytes_sent": 1091670710,
+    "bytes_recv": 3279094145,
+    "packets_sent": 1831306,
+    "packets_recv": 2763555,
+    "errin": 0,
+    "errout": 0,
+    "dropin": 0,
+    "dropout": 0
+  },
+  "disk_io": {
+    "read_count": 7353468,
+    "write_count": 8969305,
+    "read_bytes": 426190096896,
+    "write_bytes": 244147607552,
+    "read_time": 40090,
+    "write_time": 10384
+  },
+  "load_average": null
+}

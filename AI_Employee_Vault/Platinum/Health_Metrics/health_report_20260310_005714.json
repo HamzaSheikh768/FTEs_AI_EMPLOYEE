@@ -1,0 +1,89 @@
+{
+  "summary": {
+    "timestamp": "2026-03-10T00:57:13.349531",
+    "total_metrics_collected": 1,
+    "total_alerts_generated": 1,
+    "average_cpu_percent": 22.6,
+    "average_memory_percent": 81.2,
+    "average_disk_percent": 89.7,
+    "current_cpu_percent": 22.6,
+    "current_memory_percent": 81.2,
+    "current_disk_percent": 89.7,
+    "current_process_count": 319
+  },
+  "trends": {
+    "error": "Insufficient data for trend analysis"
+  },
+  "top_processes": [
+    {
+      "pid": 19576,
+      "name": "Code.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 13.12055759247831
+    },
+    {
+      "pid": 3400,
+      "name": "MemCompression",
+      "cpu_percent": 0.0,
+      "memory_percent": 7.175082586125531
+    },
+    {
+      "pid": 21008,
+      "name": "claude.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 6.6172480971914664
+    },
+    {
+      "pid": 6444,
+      "name": "Code.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 2.402584673467165
+    },
+    {
+      "pid": 23204,
+      "name": "Code.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 2.304110550453165
+    },
+    {
+      "pid": 27532,
+      "name": "chrome.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 2.167858568991179
+    },
+    {
+      "pid": 16276,
+      "name": "explorer.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.7034885831488003
+    },
+    {
+      "pid": 30728,
+      "name": "chrome.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.653077770114108
+    },
+    {
+      "pid": 8464,
+      "name": "chrome.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.5398167979574302
+    },
+    {
+      "pid": 8200,
+      "name": "WhatsApp.Root.exe",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.387422707856875
+    }
+  ],
+  "recent_alerts": [
+    {
+      "type": "network_activity",
+      "severity": "info",
+      "message": "High network activity detected: 1097392744 sent, 3280016876 received",
+      "value": "1097392744/3280016876",
+      "threshold": "1GB",
+      "timestamp": "2026-03-10T00:57:10.342476"
+    }
+  ]
+}

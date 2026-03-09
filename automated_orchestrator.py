@@ -18,6 +18,7 @@ from datetime import datetime, timedelta
 import json
 
 from dotenv import load_dotenv
+from platinum_orchestrator import PlatinumOrchestrator
 
 # Load environment variables
 load_dotenv()
@@ -461,6 +462,7 @@ class Orchestrator:
         self.mcp_manager = MCPManager(self.process_manager)
         self.watcher_manager = WatcherManager(self.process_manager)
         self.claude_invoker = ClaudeInvoker(Path("AI_Employee_Vault"))
+        self.platinum_orchestrator = PlatinumOrchestrator()
 
         # Setup signal handler for graceful shutdown
         signal.signal(signal.SIGINT, self._signal_handler)
@@ -585,10 +587,14 @@ class Orchestrator:
         # Start all watchers
         self.watcher_manager.start_watchers()
 
+        # Start Platinum tier orchestrator
+        self.platinum_orchestrator.start_all_services()
+
         # Print startup message
         logger.info("Gold Tier Master Orchestrator started successfully!")
         logger.info("MCP servers running: %s", list(self.mcp_manager.mcp_servers.keys()))
         logger.info("Watchers running: %s", list(self.process_manager.get_process_status().keys()))
+        logger.info("Platinum orchestrator services started")
         logger.info("Ralph Wiggum loop active with 2-minute cycles")
 
         # Create a sample test task if needed
@@ -615,6 +621,7 @@ class Orchestrator:
         except Exception as e:
             logger.error("Error in main loop: %s", e)
         finally:
+            self.platinum_orchestrator.stop_all_services()
             self.process_manager.stop_all()
             logger.info("Gold Tier Master Orchestrator stopped.")
 

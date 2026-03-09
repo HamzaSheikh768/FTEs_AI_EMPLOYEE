@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-03-10T00:37:02.577659",
+  "alerts": [
+    {
+      "type": "network_activity",
+      "severity": "info",
+      "message": "High network activity detected: 1066737090 sent, 3251851424 received",
+      "value": "1066737090/3251851424",
+      "threshold": "1GB",
+      "timestamp": "2026-03-10T00:37:01.503893"
+    }
+  ]
+}

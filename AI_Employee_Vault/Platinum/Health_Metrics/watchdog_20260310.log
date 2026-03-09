@@ -1,0 +1,26 @@
+2026-03-10 00:57:10,297 - watcher.a2a_messenger - INFO - Agent watchdog_agent registered with capabilities: ['system_monitoring', 'health_checks']
+2026-03-10 00:57:10,298 - watcher.a2a_messenger - INFO - Agent cloud_sync_agent registered with capabilities: ['file_sync', 'backup', 'cloud_integration']
+2026-03-10 00:57:10,300 - watcher.a2a_messenger - INFO - Agent briefing_generator_agent registered with capabilities: ['reporting', 'analytics', 'business_intelligence']
+2026-03-10 00:57:10,301 - watcher.a2a_messenger - INFO - Agent scheduler_agent registered with capabilities: ['task_scheduling', 'cron_jobs', 'time_management']
+2026-03-10 00:57:10,337 - watcher.a2a_messenger - INFO - Agent finance_watcher_agent registered with capabilities: ['financial_monitoring', 'transaction_analysis', 'fraud_detection']
+2026-03-10 00:57:10,338 - platinum_orchestrator - INFO - All Platinum tier agents registered with A2AMessenger
+2026-03-10 00:57:10,338 - platinum_orchestrator - INFO - Starting Platinum tier services...
+2026-03-10 00:57:10,341 - watcher.watchdog - INFO - Starting Watchdog monitoring with 60s interval
+2026-03-10 00:57:10,342 - platinum_orchestrator - INFO - Watchdog monitoring started
+2026-03-10 00:57:10,344 - watcher.scheduler_cron - INFO - Scheduler started
+2026-03-10 00:57:10,344 - watcher.scheduler_cron - INFO - Scheduler started in background thread
+2026-03-10 00:57:10,345 - platinum_orchestrator - INFO - Scheduler started
+2026-03-10 00:57:10,345 - watcher.a2a_messenger - INFO - Starting heartbeat monitoring with 30s interval
+2026-03-10 00:57:10,346 - platinum_orchestrator - INFO - A2AMessenger heartbeat monitoring started
+2026-03-10 00:57:10,347 - platinum_orchestrator - INFO - Platinum orchestrator continuous monitoring started
+2026-03-10 00:57:10,348 - platinum_orchestrator - INFO - Continuous monitoring started
+2026-03-10 00:57:10,348 - platinum_orchestrator - INFO - All Platinum tier services started successfully
+2026-03-10 00:57:11,483 - watcher.watchdog - WARNING - Detected 1 anomalies
+2026-03-10 00:57:14,440 - platinum_orchestrator - INFO - Stopping Platinum tier services...
+2026-03-10 00:57:15,358 - watcher.scheduler_cron - INFO - Scheduler stopped
+2026-03-10 00:57:15,359 - watcher.scheduler_cron - INFO - Scheduler stopped
+2026-03-10 00:57:15,359 - platinum_orchestrator - INFO - Scheduler stopped
+2026-03-10 00:57:15,360 - platinum_orchestrator - INFO - Thread watchdog will stop automatically (daemon)
+2026-03-10 00:57:15,360 - platinum_orchestrator - INFO - Thread messenger will stop automatically (daemon)
+2026-03-10 00:57:15,360 - platinum_orchestrator - INFO - Thread monitoring will stop automatically (daemon)
+2026-03-10 00:57:15,360 - platinum_orchestrator - INFO - All Platinum tier services stopped

@@ -9,3 +9,10 @@ google-auth>=2.23.0
 google-auth-oauthlib>=1.1.0
 google-auth-httplib2>=0.1.0
 google-api-python-client>=2.99.0
+# Platinum Tier Requirements
+croniter>=1.0.0
+pytz>=2022.0
+cryptography>=3.4.0
+pandas>=1.4.0
+jinja2>=3.0.0
+psutil>=5.8.0

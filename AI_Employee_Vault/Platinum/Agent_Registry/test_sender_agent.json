@@ -1,0 +1,9 @@
+{
+  "name": "test_sender",
+  "status": "idle",
+  "capabilities": [
+    "testing"
+  ],
+  "last_heartbeat": "2026-03-10T00:34:09.929830",
+  "timestamp": "2026-03-10T00:34:09.930727"
+}

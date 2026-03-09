@@ -32,7 +32,7 @@ Creates LinkedIn post drafts for business content and manages the approval workf
 - `.claude/hook/linkedin_credentials.hook` - Contains LinkedIn session information or API credentials
 
 ## Approval Required
-Yes - All LinkedIn posts require human approval
+Conditional - Business promotion posts (as defined in Company_Handbook.md) can auto-post if they meet safety criteria. All other posts require human approval.
 
 ## DRY_RUN Support
 Yes - Logs intent to create post but doesn't create approval request

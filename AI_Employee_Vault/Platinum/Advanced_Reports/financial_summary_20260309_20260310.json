@@ -1,0 +1,18 @@
+{
+  "period_start": "2026-03-09T00:34:10.074911",
+  "period_end": "2026-03-10T00:34:10.074920",
+  "total_income": "0",
+  "total_expenses": "125.50",
+  "net_flow": "-125.50",
+  "income_by_category": {},
+  "expenses_by_category": {
+    "food": "125.50"
+  },
+  "income_by_account": {},
+  "expenses_by_account": {
+    "test_account": "125.50"
+  },
+  "transaction_count": 1,
+  "alerts_generated": 0,
+  "generated_at": "2026-03-10T00:34:10.074987"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "watchdog_agent",
+  "status": "idle",
+  "capabilities": [
+    "system_monitoring",
+    "health_checks"
+  ],
+  "last_heartbeat": "2026-03-10T01:00:08.230233",
+  "timestamp": "2026-03-10T01:00:08.230556"
+}

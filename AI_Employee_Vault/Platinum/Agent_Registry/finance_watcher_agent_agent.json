@@ -1,0 +1,11 @@
+{
+  "name": "finance_watcher_agent",
+  "status": "idle",
+  "capabilities": [
+    "financial_monitoring",
+    "transaction_analysis",
+    "fraud_detection"
+  ],
+  "last_heartbeat": "2026-03-10T01:00:08.233644",
+  "timestamp": "2026-03-10T01:00:08.233992"
+}

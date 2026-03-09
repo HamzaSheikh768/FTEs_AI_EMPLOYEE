@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-03-10T01:00:41.881026",
+  "alerts": [
+    {
+      "type": "cpu_high",
+      "severity": "critical",
+      "message": "High CPU usage detected: 95.8%",
+      "value": 95.8,
+      "threshold": 80,
+      "timestamp": "2026-03-10T01:00:40.804166"
+    },
+    {
+      "type": "network_activity",
+      "severity": "info",
+      "message": "High network activity detected: 1103544646 sent, 3280484866 received",
+      "value": "1103544646/3280484866",
+      "threshold": "1GB",
+      "timestamp": "2026-03-10T01:00:40.804166"
+    }
+  ]
+}

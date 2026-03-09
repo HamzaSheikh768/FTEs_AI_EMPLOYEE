@@ -2,5 +2,11 @@
 __pycache__
 
 .vscode
+.venv
+.mypy_cache
+.pytest_cache
+
 .whatsapp_session
 .linkedin_session
+
+.sync_encryption_key

@@ -1,0 +1,146 @@
+{
+  "id": "briefing_20260310_002821_weekly",
+  "title": "CEO Briefing - Weekly Report 2026-03-10",
+  "date": "2026-03-10T00:28:21.602082",
+  "report_type": "weekly",
+  "summary": "Bottlenecks: 1 issues | Recommendations: 4 items",
+  "sections": [
+    {
+      "title": "Revenue This Week",
+      "content": "Generated $0.00 in revenue this period (7 days)",
+      "data": {
+        "current_period_revenue": 0.0,
+        "period_days": 7,
+        "comparison_to_target": "85% of weekly target"
+      },
+      "charts": [
+        {
+          "type": "bar",
+          "title": "Revenue Trend",
+          "data": [
+            {
+              "period": "Last Week",
+              "revenue": 0.0
+            },
+            {
+              "period": "This 7 Days",
+              "revenue": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Operational Bottlenecks",
+      "content": "Identified 1 potential bottlenecks:\n- High error rate: 843 errors detected (Priority: high)",
+      "data": {
+        "bottleneck_count": 1,
+        "bottlenecks": [
+          {
+            "type": "system_errors",
+            "description": "High error rate: 843 errors detected",
+            "priority": "high"
+          }
+        ]
+      },
+      "charts": []
+    },
+    {
+      "title": "Proactive Suggestions",
+      "content": "Generated 4 recommendations for improvement:\n- Focus on Revenue Growth: Current revenue levels are below target. Consider implementing new sales strategies.\n- Address System Bottlenecks: Detected 1 potential bottlenecks that need attention.\n- Improve Social Engagement: Social media engagement is below optimal levels. Consider increasing posting frequency.\n- Reduce System Errors: High error rate detected. Review system logs and optimize processes.",
+      "data": {
+        "recommendation_count": 4,
+        "recommendations": [
+          {
+            "title": "Focus on Revenue Growth",
+            "description": "Current revenue levels are below target. Consider implementing new sales strategies.",
+            "priority": "high",
+            "impact": "high",
+            "category": "financial"
+          },
+          {
+            "title": "Address System Bottlenecks",
+            "description": "Detected 1 potential bottlenecks that need attention.",
+            "priority": "high",
+            "impact": "medium",
+            "category": "operational"
+          },
+          {
+            "title": "Improve Social Engagement",
+            "description": "Social media engagement is below optimal levels. Consider increasing posting frequency.",
+            "priority": "medium",
+            "impact": "medium",
+            "category": "strategic"
+          },
+          {
+            "title": "Reduce System Errors",
+            "description": "High error rate detected. Review system logs and optimize processes.",
+            "priority": "high",
+            "impact": "high",
+            "category": "operational"
+          }
+        ]
+      },
+      "charts": []
+    },
+    {
+      "title": "Upcoming Deadlines",
+      "content": "0 upcoming deadlines this week:\n",
+      "data": {
+        "deadline_count": 0,
+        "deadlines": []
+      },
+      "charts": []
+    }
+  ],
+  "analytics": [
+    {
+      "type": "predictive",
+      "metric": "system_errors",
+      "value": 843,
+      "trend": null,
+      "prediction": 800.8499999999999,
+      "confidence": 0.75
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Focus on Revenue Growth",
+      "description": "Current revenue levels are below target. Consider implementing new sales strategies.",
+      "priority": "high",
+      "impact": "high",
+      "category": "financial"
+    },
+    {
+      "title": "Address System Bottlenecks",
+      "description": "Detected 1 potential bottlenecks that need attention.",
+      "priority": "high",
+      "impact": "medium",
+      "category": "operational"
+    },
+    {
+      "title": "Improve Social Engagement",
+      "description": "Social media engagement is below optimal levels. Consider increasing posting frequency.",
+      "priority": "medium",
+      "impact": "medium",
+      "category": "strategic"
+    },
+    {
+      "title": "Reduce System Errors",
+      "description": "High error rate detected. Review system logs and optimize processes.",
+      "priority": "high",
+      "impact": "high",
+      "category": "operational"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-03-10T00:28:21.602083",
+    "data_sources": {
+      "business_goals": "True",
+      "odoo_data": "False",
+      "social_data": "False",
+      "system_logs": "True"
+    },
+    "period_days": 7
+  }
+}
